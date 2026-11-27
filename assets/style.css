@@ -177,6 +177,7 @@ h2.sectietitel::before { content: ""; width: 8px; height: 28px; border-radius: 4
 .extra-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
 .extra-grid .kaart { margin: 0; border-top: 5px solid var(--goud); }
 .extra-grid .kaart.save-the-date { border-top-color: var(--blauw); }
+.extra-grid .kaart.breed { grid-column: 1 / -1; }
 .tag { display: inline-block; font-size: .7rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--goud); margin-bottom: 6px; }
 .knop {
   display: inline-block; margin-top: 12px; background: var(--blauw); color: #fff; text-decoration: none;

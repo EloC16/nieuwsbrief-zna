@@ -62,7 +62,7 @@ def main():
 
     print(f"Editie {data.get('periode')} – concept: {data.get('concept')}\n")
     print("DATUMS (controleer de weekdag):")
-    for van, tot, waar in sorted(datums):
+    for van, tot, waar in sorted(datums, key=lambda x: (x[0], x[2])):
         s = f"{DAGEN[van.weekday()]} {van:%d/%m/%Y}"
         if tot and tot != van:
             s += f" – {DAGEN[tot.weekday()]} {tot:%d/%m/%Y}"

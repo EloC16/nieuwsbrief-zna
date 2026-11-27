@@ -1,0 +1,485 @@
+{
+  "editie": "2026-q1",
+  "titel": "Nieuwsbrief",
+  "periode": "Q1 2026",
+  "ondertitel": "Maart 2026 · over kampioenschappen, clubrecords, onze eigen wedstrijden, het gala en de stage",
+  "redactie": "",
+  "gepubliceerd": null,
+  "concept": false,
+  "intro": "",
+  "wedstrijden": {
+    "titel": "Wedstrijdnieuws",
+    "voetnoot": "De medailles worden alfabetisch op achternaam vermeld.",
+    "intro": "We zijn 2026 heel sterk begonnen met heel wat leuke wedstrijden en kampioenschappen. Hoog tijd om dit alles even op een rijtje te zetten.",
+    "items": [
+      {
+        "naam": "STW Wintermeeting",
+        "plaats": "Sint-Niklaas",
+        "van": "2026-01-11",
+        "goud": [
+          "Mathias B (100VS)",
+          "Lily (100SS)",
+          "Emelie (400VS, 100VL)",
+          "Telma (100SS)",
+          "Diede (100SS)",
+          "Tymon (100R)"
+        ],
+        "zilver": [
+          "Nina (100VL)",
+          "Nils (100SS, 100VL)",
+          "Leon (100R)",
+          "Ella (100VL)",
+          "Emma (100R)",
+          "Alicia (100SS)",
+          "Hana (100SS)",
+          "Mila (100VS, 100R)",
+          "Bavo (100SS)",
+          "Nand W (100SS)"
+        ],
+        "brons": [
+          "Nina (100R)",
+          "Nils (100VS)",
+          "Lotte B (100R)",
+          "Gaetan (100SS)",
+          "Thor (100SS)",
+          "Lily (400VS)",
+          "Ilan (100R)",
+          "Geike (100VS)",
+          "Diede (100VS)",
+          "Fen (100VL)",
+          "Seppe (100VS)",
+          "Bavo (100VL)"
+        ]
+      },
+      {
+        "naam": "Regionaal criterium dag 3",
+        "plaats": "Wachtebeke",
+        "van": "2026-01-25",
+        "goud": [
+          "Nils (400VS)",
+          "Ella (50VS)",
+          "Nan (50VS)"
+        ],
+        "zilver": [
+          "Nils (100R)",
+          "Mathias B (50VS)",
+          "Elise (50VS, 400VS)",
+          "Juul (50VS, 400VS)",
+          "Lore (400VS)"
+        ],
+        "brons": [
+          "Lotte B (100R)",
+          "Juul (100R)",
+          "Nathan (400VS)",
+          "Mila (100R)",
+          "Fen (400VS)"
+        ]
+      },
+      {
+        "naam": "Oost-Vlaamse Kampioenschappen (50m)",
+        "plaats": "Wachtebeke",
+        "van": "2026-01-31",
+        "tot": "2026-02-01",
+        "goud": [
+          "Gaetan (100SS)",
+          "Xibe (400VS)",
+          "Lily (200VL)",
+          "Emelie (50VS, 100VS, 200VS, 100R)",
+          "Alicia (50SS, 200SS)",
+          "Jinne (200SS)",
+          "Diede (100SS)",
+          "Seppe (200R)",
+          "Tymon (50VS, 100R)"
+        ],
+        "zilver": [
+          "Lotte B (50SS)",
+          "Xibe (50VS, 100VS, 200VS, 200W)",
+          "Lily (200SS)",
+          "Mathias D (200SS)",
+          "Alicia (100SS)",
+          "Jinne (100SS)",
+          "Diede (200SS)",
+          "Seppe (50R, 100R)",
+          "Bavo (100SS, 200SS)",
+          "Nand W (50SS, 200SS)",
+          "Tymon (200R, 50VL)",
+          "Dames 4x100W (Nina, Lotte B, Emelie, Diede)"
+        ],
+        "brons": [
+          "Mathias B (50VL)",
+          "Lotte B (100SS, 200SS)",
+          "Gaetan (50VS)",
+          "Xibe (50VL)",
+          "Lily (100SS, 50VL, 100VL)",
+          "Mathias D (50SS)",
+          "Emelie (50R)",
+          "Geike (50VS)",
+          "Jinne (50SS)",
+          "Diede (50SS, 50VL)",
+          "Seppe (100VS)",
+          "Bavo (50SS, 200W)",
+          "Tymon (50R)",
+          "Dames 4x100VS (Nina, Lotte B, Emelie, Geike)",
+          "Dames 4x100W (Liesl, Lily, Alicia, Geike)",
+          "Heren 4x100VS (Adam, Xibe, Mathias D, Tymon)"
+        ]
+      },
+      {
+        "naam": "Mega Swim Meet",
+        "plaats": "Gent",
+        "van": "2026-02-08",
+        "tekst": "Top 10-plaatsen voor Nina, Gaetan, Lily, Mathias D, Geike, Diede, Bavo, Nand W en Tymon.",
+        "brons": [
+          "Bavo (50SS)"
+        ]
+      },
+      {
+        "naam": "Groeitraject dag 3",
+        "plaats": "Beernem",
+        "van": "2026-03-01",
+        "tekst": "Trainers Kato en Mauro trokken ditmaal met Nylo, Yasmine, Rémi en Feije naar het zwembad in Beernem. Mauro vatte het mooi samen, er kon zelfs een rijmpje vanaf:\n\n*Het groeitraject was weer geslaagd,\nechter waren ze aan elkaar gewaagd.\nOok al was het een test,\nwaren we de strafste van het gewest.\nNu kijken we uit naar de volgende editie,\nwe zien het dan ook als expeditie.\nDe laatste van het traject,\nhopelijk heeft het effect.*",
+        "fotos": [
+          {
+            "src": "fotos/groeitraject.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Regionaal criterium dag 4",
+        "plaats": "Zottegem",
+        "van": "2026-03-01",
+        "goud": [
+          "Mathias B (200VL)",
+          "Xibe (200VL)",
+          "Liesl (50VS)",
+          "Lily (200VL, 100W)",
+          "Seppe (200R, 100W)",
+          "Bavo (50VS)"
+        ],
+        "zilver": [
+          "Diede (100W)",
+          "Arman (50VS, 100W)",
+          "Ada (50VS)",
+          "Mila (50VS)",
+          "Tymon (200VL)"
+        ],
+        "brons": [
+          "Nina (100W)",
+          "Xibe (200R)",
+          "Thor (200VL)",
+          "Alicia (50VS)",
+          "Jinne (100W)",
+          "Diede (200R)"
+        ]
+      },
+      {
+        "naam": "VJTC (Vlaamse Jeugdkampioenschappen)",
+        "plaats": "Antwerpen",
+        "van": "2026-03-06",
+        "tot": "2026-03-08",
+        "tekst": "**Nina:** PR op 50SS, SB op 200W.\n\n**Lily:** PR op 50SS, 100SS, 200SS, 100VL en 200R. Finale op 100SS, 4de plaats in het klassement schoolslag.\n\n**Emelie:** PR op 50VS, 100VS, 50R, 100R en 200R. Finale op 100VS en 100R, **1ste plaats in het klassement rugslag** en 2de plaats in het klassement vrije slag.\n\n**Diede:** SB op 50SS en 100SS.\n\n**Seppe:** PR op 50VS, 100VS, 200VS, 50R, 100R en 200R.\n\n**Bavo:** PR op 50VS, 50R, 100R, 100SS en 200SS. Finale op 100SS.",
+        "goud": [
+          "Emelie (klassement rugslag)"
+        ],
+        "zilver": [
+          "Emelie (klassement vrije slag)"
+        ],
+        "records": [
+          {
+            "label": "Clubrecord",
+            "wie": "Emelie",
+            "wat": "50m vrije slag (14 jaar)",
+            "tijd": "27.66"
+          },
+          {
+            "label": "Clubrecord",
+            "wie": "Emelie",
+            "wat": "100m vrije slag (absoluut)",
+            "tijd": "59.17"
+          },
+          {
+            "label": "Clubrecord",
+            "wie": "Emelie",
+            "wat": "200m vrije slag (14 jaar)",
+            "tijd": "2:12.28"
+          }
+        ],
+        "fotos": [
+          {
+            "src": "fotos/vjtc-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/vjtc-2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/vjtc-3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/vjtc-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/vjtc-5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/vjtc-6.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Vlaams Lentecriterium",
+        "plaats": "Antwerpen",
+        "van": "2026-03-14",
+        "tot": "2026-03-15",
+        "tekst": "Geen medailles in dit vernieuwde concept, wel een prijs voor de reekswinnaars! Speciaal voor dit kampioenschap doken we even de statistieken in.\n\n**23 reekswinnaars:** Nils, Mathias B, Lotte B, Gaetan (2x), Kyan, Thor, Liesl, Juul, Nell, Jenne, Alicia, Elano (3x), Geike, Nand S, Arman, Mila, Nan (2x), Tymon (2x).\n\n**Stats:** 38 zwemmers, 152 individuele starten, 135 ZNA-reeksen. 23 reekswinnaars op 135 reeksen: 17% winstrate. 110 besttijden op 152 starten: 72% PR-rate. **Winnaar clubklassement Jeugd 2 (13-14j)!**\n\n**Behaalde limieten:** Lotte B: 50VL en 100SS (BK Zomer). Gaetan: 50SS (BK Open) en 100SS (BK Zomer). Alicia: 100SS (BK Open).\n\n**Extra's:** 5 trainers, te weinig slaap, de nodige koffie(koeken), 10 wafels getrakteerd als part of the deal en onuitputtelijk enthousiasme bij elke (bijna-)reekswinst.",
+        "fotos": [
+          {
+            "src": "fotos/lentecriterium-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/lentecriterium-2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/lentecriterium-3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/lentecriterium-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/lentecriterium-5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/lentecriterium-6.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Flanders Swimming Cup",
+        "plaats": "Antwerpen",
+        "van": "2026-03-20",
+        "tot": "2026-03-22",
+        "tekst": "**Xibe** benaderde zijn (snelle) besttijden op 50VS en 100VS: een positieve ervaring op dit kampioenschap.\n\n**Mathias D** zwom een knallend PR op 100SS, meteen een limiet voor het BK Open.\n\n**Noah** zwom de finale op de drie schoolslagnummers, werd **Vlaams kampioen op 100SS en 200SS** en algemeen 3de bij de heren (WA-punten).\n\n**Emelie:** ervaring opdoen bij de 'oudjes' was de boodschap, op 100VS en 200VS als een van de jongste zwemmers.",
+        "goud": [
+          "Noah (100SS, 200SS)"
+        ],
+        "fotos": [
+          {
+            "src": "fotos/fsc-noah.jpg",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "stages": {
+    "titel": "Vooruitblik stages",
+    "items": [
+      {
+        "titel": "Ptuj 2026",
+        "groep": "A-groep",
+        "van": "2026-07-01",
+        "tot": "2026-07-08",
+        "tekst": "Zoals jullie al weten, zal onze A-groep opnieuw de omgeving van Ptuj onveilig maken. De betalingen lopen vlot binnen; wie dit nog niet in orde bracht, gelieve dit zo snel mogelijk te doen. In de loop van juni volgt een infomoment met verdere info."
+      },
+      {
+        "titel": "Zomerstage",
+        "groep": "Beloften en Jongeren",
+        "van": "2026-07-01",
+        "tot": "2026-07-05",
+        "tekst": "We wachten nog steeds op antwoord of er voldoende zwemwater is. Zodra we meer info hebben, ontvangen de betrokken ouders een mail met alle informatie. Houd alvast de periode 1 tot 5 juli in optie!"
+      }
+    ]
+  },
+  "kalender": {
+    "titel": "Wedstrijdkalender Q2 2026",
+    "items": [
+      {
+        "naam": "Limietenwedstrijd",
+        "plaats": "Eeklo",
+        "van": "2026-04-06"
+      },
+      {
+        "naam": "Groeitraject dag 4",
+        "plaats": "Lebbeke",
+        "van": "2026-04-11"
+      },
+      {
+        "naam": "Regionaal criterium dag 5",
+        "plaats": "Eeklo",
+        "van": "2026-04-19"
+      },
+      {
+        "naam": "Memorial Herman Braeckman",
+        "plaats": "Aalst",
+        "van": "2026-04-26"
+      },
+      {
+        "naam": "Open Belgische kampioenschappen",
+        "plaats": "Antwerpen",
+        "van": "2026-05-15",
+        "tot": "2026-05-17",
+        "details": "Selectie obv limieten"
+      },
+      {
+        "naam": "Limietenwedstrijd",
+        "plaats": "Sint-Niklaas",
+        "van": "2026-05-24"
+      },
+      {
+        "naam": "Regionaal criterium finale",
+        "plaats": "Temse",
+        "van": "2026-05-31",
+        "details": "Selectie door RCOVL"
+      },
+      {
+        "naam": "Zomerwedstrijd Neptunus Aalst",
+        "plaats": "Aalst",
+        "van": "2026-06-27"
+      }
+    ]
+  },
+  "extra": {
+    "titel": "Extra",
+    "items": [
+      {
+        "tag": "Clubrecords",
+        "titel": "Clubrecords",
+        "tekst": "De eerste wedstrijden van het jaar leverden meteen spektakel op: op het VJTC werden 3 clubrecords aan diggelen gezwommen door Emelie (zie hierboven).\n\nFun fact: de absolute snelste tijd wordt genoteerd, meestal worden deze dus in klein bad gezwommen. De nieuwe clubrecords krijgen nog wat meer glans als je weet dat ze alle drie in groot bad zijn verbroken.\n\nAlle clubrecords zijn vanaf nu te bewonderen op onze website (met dank aan Steven Matté).",
+        "link": "https://www.neptunusaalst.be/competitiezwemmen/clubrecords",
+        "linktekst": "Naar de clubrecords"
+      },
+      {
+        "tag": "Limieten",
+        "titel": "Behaalde limieten",
+        "tekst": "**BK Open:** Gaetan, Xibe, Mathias D, Noah, Emelie, Alicia, Sien en Brecht.\n\n**BK Zomer:** Nina, Alicia, Lotte B, Geike, Gaetan, Diede, Xibe, Seppe, Mathias D, Brecht, Noah, Bavo, Lily, Tymon en Emelie."
+      },
+      {
+        "tag": "Terugblik",
+        "titel": "Het Gala van de Gouden Drietand",
+        "tekst": "Dank je wel voor jullie aanwezigheid! Tot onze grote vreugde waren jullie talrijk aanwezig om de prestaties van onze zwemmers in de bloemetjes te zetten. Jullie kregen heel wat cijfertjes te verwerken, maar gelukkig konden die doorgespoeld worden met een hapje en een drankje. Elke zwemmer, van groot tot klein, werd beloond voor zijn inzet en enthousiasme, of het nu in de Tritonproeven, met een wisselbeker, een oorkonde of in het clubkampioenschap was. De presentatie staat op de website.\n\nDe avond smaakte duidelijk naar meer: we nodigen jullie nu al uit voor de tweede editie in januari 2027! Graag hadden we jullie feedback ontvangen, zodat we volgend jaar een minstens even spetterend gala kunnen organiseren.",
+        "link": "https://forms.gle/DdEfDa2U7iGLU7RLA",
+        "linktekst": "Geef je feedback",
+        "fotos": [
+          {
+            "src": "fotos/gala-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-8.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-9.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-11.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-12.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-13.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-14.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-15.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/gala-16.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "tag": "Save the date",
+        "titel": "Infomoment voeding en training",
+        "van": "2026-05-13",
+        "plaats": "Vergaderzaal Aquatopia, 19u30",
+        "tekst": "Een boeiende en leerrijke infoavond voor onze zwemmers van de A-groep en hun ouders. We starten met een praktische sessie over voeding voor (jonge) zwemmers: wat je lichaam nodig heeft om goed te trainen en te herstellen, concrete tips over maaltijden vóór en na trainingen en wedstrijden, het belang van hydratatie en hoe je met de juiste voedingskeuzes je energie en prestaties optimaliseert.\n\nAansluitend volgt een korte, algemene toelichting over de lactaattesten: wat houden ze in en wat kan je eruit afleiden voor de training? (Er wordt geen individuele bespreking voorzien.)"
+      },
+      {
+        "tag": "Oproep",
+        "titel": "Wanted: officials",
+        "tekst": "Tim, de papa van Ella Deneef, is onze nieuwste aanwinst en ook Nik, de papa van Emelie Eelbode, is zijn opleiding aan het afronden. Vers bloed, altijd plezant! Hoe meer, hoe beter.\n\nWedstrijden kunnen gewoon niet doorgaan zonder voldoende officials. Voor elke 10 zwemmers moet een club minstens één official voorzien. Daarom een warme oproep aan alle ouders, zeker aan die van onze jongste zwemmers: schrijf je in voor de TAK-cursus (Tijdopnemer, Aankomstrechter, Keerpuntrechter)! De club betaalt zowel je inschrijving als je uitrusting.\n\nWat levert het jou op? Je ontdekt een nieuwe hobby, je leert toffe mensen kennen, je zit niet de hele wedstrijd te puffen in een warm zwembad maar levert écht een waardevolle bijdrage aan de club én aan je kind, en je snapt meteen beter waar je kind zo enthousiast over is.\n\nInlichtingen bij de trainers of bij de huidige officials!"
+      },
+      {
+        "tag": "Oproep",
+        "titel": "Wanted 2.0: helpers en sponsors",
+        "tekst": "Voor onze zwemwedstrijden op 26 april en 27 juni zoeken we enthousiaste ouders die een handje willen helpen: opbouw, kassa, controle vergaderzaal, catering, afbraak… Vele handen maken licht werk! We vragen ook dat alle zwemmers na afloop meehelpen om het zwembad opnieuw in orde te zetten: teamwork staat centraal, ook naast het bad.\n\nVoor de eetstand doen we een warme oproep om iets lekkers te bakken: cake, muffins, taart, koekjes of hartige creaties, alles is welkom! En ken je mogelijke sponsors voor onze wedstrijden? Laat het ons weten.\n\n**Taken voor de Memorial Herman Braeckman:** zaterdag vanaf 19u30 installatie panelen en geluid (4 personen) en het zwembad en de sporthal klaarmaken (5 personen); zondag vanaf 7u30 kassa, koekenverkoop, controle sporthal en vergaderzaal, medische dienst, controle bandjes tribune, oproepkamer, jurytafel en omroeper, wedstrijdbriefjes ophalen, broodjes smeren en snoepverkoop. Na de wedstrijd ruimen alle zwemmers en ouders samen op.\n\nWie een taak wil opnemen, sponsors gevonden heeft of zijn bakkunsten wil bovenhalen: graag mailen naar cindy.moens@neptunusaalst.be. Alvast bedankt!"
+      },
+      {
+        "tag": "Save the date",
+        "titel": "Quiz",
+        "van": "2026-09-05",
+        "plaats": "Polyvalente zaal basisschool SVI, Gijzegem"
+      }
+    ]
+  },
+  "sponsors": {
+    "titel": "Dank aan onze sponsors",
+    "items": [
+      {
+        "naam": "Pleister- en gyprocwerken Jacob Bart",
+        "logo": "../../assets/sponsors/jacob-bart.png"
+      },
+      {
+        "naam": "Comar Sport",
+        "logo": "../../assets/sponsors/comar-sport.png",
+        "url": "https://www.comarsport.be"
+      },
+      {
+        "naam": "Speedo",
+        "logo": "../../assets/sponsors/speedo.png"
+      }
+    ],
+    "vrij": "Hier is nog een plaatsje vrij. Interesse? Laat het ons weten via cindy.moens@neptunusaalst.be"
+  }
+}

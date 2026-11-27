@@ -1,0 +1,449 @@
+{
+  "editie": "2025-q3",
+  "titel": "Nieuwsbrief",
+  "periode": "Q3 2025",
+  "ondertitel": "September 2025 · over wedstrijden, medailles, stages, Ninovieters, activiteiten en officials",
+  "redactie": "",
+  "gepubliceerd": null,
+  "concept": false,
+  "intro": "",
+  "wedstrijden": {
+    "titel": "Wedstrijdnieuws",
+    "voetnoot": "De medailles worden alfabetisch op achternaam vermeld.",
+    "intro": "Er zijn de voorbije periode heel wat wedstrijden gezwommen, met heel wat fantastische resultaten. Elke zwemmer, groot én klein, heeft wel ergens een besttijd verbeterd. En dat is iets om écht trots op te zijn.\n\nIn dit overzicht staan enkel de resultaten van de 'originele' ZNA-zwemmers (of zoals Studio 100 het zou zeggen: de OG's ;). Natuurlijk hebben ook onze vrienden van de Kikkertjes prachtige prestaties geleverd! Vanaf september worden ook hun prestaties hier belicht.",
+    "items": [
+      {
+        "naam": "Limietjacht",
+        "plaats": "Eeklo",
+        "van": "2025-04-21",
+        "tekst": "19 zwemmers namen deel.",
+        "goud": [
+          "Arman (100S)",
+          "Tymon (100R)"
+        ],
+        "zilver": [
+          "Thor (100S)",
+          "Tymon (100C)"
+        ],
+        "brons": [
+          "Tymon (200R)",
+          "Jinne (200S)"
+        ]
+      },
+      {
+        "naam": "Open BK",
+        "plaats": "Antwerpen",
+        "van": "2025-04-25",
+        "tot": "2025-04-27",
+        "tekst": "Noah zwom een PR op 50S en 100S. Emelie zwom de 100R bij de senioren (1.12.24) en werd 5de op de 200W bij de 13-jarigen (2.37.84).",
+        "goud": [
+          "Noah (200S, 2.12.36 finale)"
+        ],
+        "zilver": [
+          "Noah (100S, 1.01.81)"
+        ],
+        "brons": [
+          "Noah (50S, 28.75 finale)"
+        ]
+      },
+      {
+        "naam": "First Swimmeeting",
+        "plaats": "Gent",
+        "van": "2025-05-03",
+        "tot": "2025-05-04",
+        "tekst": "Limietenjacht voor het BK. In de loop van het seizoen veranderden de regels en werden kwalificatietijden in een 25m-bad geschrapt. 5 deelnemers.",
+        "brons": [
+          "Xibe (400W)"
+        ],
+        "finales": {
+          "Finale": [
+            "Kato (100S)",
+            "Diede (100S)"
+          ]
+        }
+      },
+      {
+        "naam": "Memorial Herman Braeckman",
+        "plaats": "Aalst",
+        "van": "2025-05-11",
+        "tekst": "Talrijk present op onze eigen wedstrijd! Bedankt aan zwemmers, ouders, trainers, … om er een spetterende editie van te maken!!",
+        "goud": [
+          "Emelie (100VS, 200VS)",
+          "Jinne (200SS)",
+          "Marilou (100S)",
+          "Nils (100V)",
+          "Xibe (400W)",
+          "Thor (200S)",
+          "Juul (100R)",
+          "Tymon (100VS)"
+        ],
+        "zilver": [
+          "Alicia (200S)",
+          "Geike (200W)",
+          "Kato (50S, 100S, 200S)",
+          "Diede (100V)",
+          "Hana (200S)",
+          "Gaetan (200W)",
+          "Xibe (200W)",
+          "Kyan (100R)",
+          "Lukas (400W)",
+          "Brecht (100S)",
+          "Tymon (200VS)"
+        ],
+        "brons": [
+          "Emelie (50VS)",
+          "Telma (200S)",
+          "Alicia (100S)",
+          "Birthe (100VS, 50V)",
+          "Diede (50S)",
+          "Ada (100R)",
+          "Ruud (100S)",
+          "Cas (100R)",
+          "Lukas (200W)",
+          "Brecht (100V)",
+          "Tymon (50R)"
+        ]
+      },
+      {
+        "naam": "Finale Regiocup Oost-Vlaanderen",
+        "plaats": "Temse",
+        "van": "2025-05-18",
+        "tekst": "31 zwemmers namen deel. Programma: 100 meters en 200 wissel, in 2 reeksen per nummer: reeks 1 met de 8 snelste tijden uit de regiowedstrijden, reeks 2 met de 8 snelste tijden van Oost-Vlaanderen.",
+        "goud": [
+          "Matthias (100VS)",
+          "Gaetan (100S)",
+          "Tymon (100R)",
+          "Emelie (100VS, 100R, 200W)",
+          "Geike (100S)",
+          "Kato (100S)",
+          "Diede (100R)",
+          "Ada (100VS, 100R)",
+          "4x50VS (Geike, Lotte VN, Alicia, Emelie)"
+        ],
+        "zilver": [
+          "Mathias (100V)",
+          "Thor (100S)",
+          "Arman (100VS)",
+          "Tymon (100VS)",
+          "Alicia (100VS)",
+          "Geike (100R)",
+          "Lotte VN (100S)",
+          "4x50VS (Tymon, Juul, Adam, Gaetan)",
+          "4x50VS (Ada, Tinne, Kato, Diede)"
+        ],
+        "brons": [
+          "Ruud (100S)",
+          "Rune (100S)",
+          "Arman (100S)",
+          "Tymon (100V)",
+          "Amina (100S)",
+          "Emma J (100VS)",
+          "Alicia (100R)",
+          "Diede (100S, 100V)",
+          "Ada (200W)"
+        ]
+      },
+      {
+        "naam": "Zomerwedstrijd Neptunus Aalst",
+        "plaats": "Aalst",
+        "van": "2025-06-28",
+        "tekst": "De laatste loodjes voor de zomervakantie én de stage.",
+        "goud": [
+          "Emelie (100VS)",
+          "Noah (200W, 400W)"
+        ],
+        "zilver": [
+          "Noah (100VS)"
+        ],
+        "brons": [
+          "Emelie (50VS)",
+          "Gaetan (50S)",
+          "Xibe (400W)"
+        ]
+      },
+      {
+        "naam": "Zomercriterium",
+        "plaats": "Antwerpen",
+        "van": "2025-07-11",
+        "tot": "2025-07-13",
+        "tekst": "Het zomercriterium werd het afscheid op competitief niveau van Birthe: ze ontpopte zich tot dé 50m-queen op dit criterium. Net zoals Gaetan stond ze maar liefst 5 keer op het podium met een individuele medaille!",
+        "goud": [
+          "Gaetan (50S)",
+          "4x50W (Sien, Jinne, Birthe, Elise)"
+        ],
+        "zilver": [
+          "Birthe (50VS, 50R, 50S, 50V)",
+          "Sien (50S)",
+          "Diede (100V)",
+          "Gaetan (100VS, 100S, 50V, 200W)",
+          "Brecht (200W)",
+          "4x50VS en 4x50W (Elano, Rune, Mathias, Nand)"
+        ],
+        "brons": [
+          "Birthe (100VS)",
+          "Lotte (200S)",
+          "Xibe (100VS)",
+          "Arman (100S)",
+          "4x50VS (Geike, Ada, Lotte, Ella)"
+        ],
+        "fotos": [
+          {
+            "src": "fotos/zomercriterium-sfeer.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "BK Jeugd",
+        "plaats": "Antwerpen",
+        "van": "2025-07-18",
+        "tot": "2025-07-20",
+        "tekst": "4 deelnemers: Emelie, Alicia, Thor en Tymon. Alicia zwom een PR op 100S en 200S, Thor op 100S en 200S, Tymon op 100VS, 100R en 200VS.",
+        "zilver": [
+          "Emelie (100VS, 1.01.80)"
+        ],
+        "fotos": [
+          {
+            "src": "fotos/bk-jeugd.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "BK 15+",
+        "plaats": "Antwerpen",
+        "van": "2025-07-25",
+        "tot": "2025-07-27",
+        "tekst": "4 deelnemers: Diede, Kato, Noah en Xibe. Diede zwom een PR op 50S, 50V, 200S, 200W en 400W, Xibe op 200W en 400W.",
+        "goud": [
+          "Noah (200S, 2.11.75)"
+        ],
+        "zilver": [
+          "Noah (100S, 1.02.58)"
+        ],
+        "fotos": [
+          {
+            "src": "fotos/bk-noah.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Groeitraject dag 1",
+        "plaats": "",
+        "van": "2025-09-14",
+        "tekst": "Het groeitraject is een pilootproject in Oost-Vlaanderen gericht op beginnende competitiezwemmers tussen 8 en 12 jaar. Het omvat een gezamenlijke opwarming, wedstrijden zonder uitsluitingen, feedback voor de trainers en vooral… medailles voor iedereen!!! De bedoeling is de overstap naar het reguliere competitiecircuit te faciliteren.\n\nVoor ZNA ging Mauro op stap met 4 zwemmertjes van de startgroep: Emma, Josse, Nylo en Victor.",
+        "fotos": [
+          {
+            "src": "fotos/groeitraject-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/groeitraject-2.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Herfstmeeting",
+        "plaats": "Lokeren",
+        "van": "2025-09-28",
+        "tekst": "We zijn het nieuwe seizoen fantastisch gestart met mooie wedstrijden van iedereen en prachtige resultaten. Geen individuele medailles per wedstrijd, wel een overall klassement (200m, 100m en 50m).",
+        "goud": [
+          "Nina",
+          "Gaetan",
+          "Tymon"
+        ],
+        "zilver": [
+          "Lily"
+        ],
+        "brons": [
+          "Xibe",
+          "Matthias D"
+        ],
+        "fotos": [
+          {
+            "src": "fotos/herfstmeeting-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/herfstmeeting-2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/herfstmeeting-3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/herfstmeeting-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/herfstmeeting-5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/herfstmeeting-6.jpg",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "stages": {
+    "titel": "Terugblik stages",
+    "items": [
+      {
+        "titel": "Ptuj (Slovenië)",
+        "groep": "A-groep & Beloften",
+        "tekst": "Nog voor de laatste schoolbel klonk, trokken 4 dappere trainers samen met 40 enthousiaste zwemmers richting Ptuj (Slovenië). En jawel, derde keer, goede keer: dit keer geen geannuleerde vluchten of verloren bagage. Maar het zou geen stage zijn zonder de Sloveense spoedfaciliteiten te verkennen. Tip van de lokale verpleegman: \"Don't ever leave your country without blue card, okay!\"\n\nOp 9 juli kwamen ze allemaal terug: bruiner, sterker én klaar om te knallen op het zomercriterium en de Belgische Kampioenschappen!",
+        "fotos": [
+          {
+            "src": "fotos/ptuj-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/ptuj-2.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "titel": "Nieuwpoort",
+        "groep": "Jongeren & Start",
+        "tekst": "Ook de jongere groepen trokken op stage naar badstad Nieuwpoort. De vele uren ploeteren in het zwembadwater kon hen niet weerhouden om ook Plopsaqua op stelten te zetten. Na al dat trainen en plezier maken waren ze helemaal klaar om te knallen op het zomercriterium!",
+        "fotos": [
+          {
+            "src": "fotos/nieuwpoort.jpg",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  "kalender": {
+    "titel": "Wedstrijdkalender Q4 2025",
+    "items": [
+      {
+        "naam": "Regionaal Criterium dag 1",
+        "plaats": "Sint-Niklaas",
+        "van": "2025-10-05"
+      },
+      {
+        "naam": "Provinciaal Kampioenschap OV",
+        "plaats": "Ronse",
+        "van": "2025-10-11",
+        "tot": "2025-10-12",
+        "details": "Selectie obv limieten"
+      },
+      {
+        "naam": "Memorial Anteunis 2025",
+        "plaats": "Gent",
+        "van": "2025-10-18",
+        "details": "Selectie voor de jongste A-zwemmers"
+      },
+      {
+        "naam": "OBK Korte Baan",
+        "plaats": "Gent",
+        "van": "2025-11-07",
+        "tot": "2025-11-09",
+        "details": "Selectie obv limieten"
+      },
+      {
+        "naam": "VJK Korte Baan",
+        "plaats": "Temse",
+        "van": "2025-11-15",
+        "tot": "2025-11-23",
+        "details": "Twee weekends: 15-16/11 en 22-23/11 · selectie obv limieten"
+      },
+      {
+        "naam": "Regionaal Criterium dag 2",
+        "plaats": "Dendermonde",
+        "van": "2025-11-22"
+      },
+      {
+        "naam": "Groeitraject dag 2",
+        "plaats": "",
+        "van": "2025-12-06"
+      },
+      {
+        "naam": "Midwintertest AST",
+        "plaats": "Aalst",
+        "van": "2025-12-20"
+      }
+    ]
+  },
+  "extra": {
+    "titel": "Extra",
+    "items": [
+      {
+        "tag": "Welkom",
+        "titel": "Ninovieters: the more, the merrier!",
+        "tekst": "Eind augustus mochten we met open armen 9 zwemmers van De Kikkertjes uit Ninove verwelkomen. Vanaf dit seizoen maken zij deel uit van onze A-groep, ook trainster Anneleen maakt de transfer compleet. Van harte welkom allemaal, fijn dat jullie erbij zijn!",
+        "fotos": [
+          {
+            "src": "fotos/ninovieters.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "tag": "Activiteit",
+        "titel": "Koekjesverkoop Milka",
+        "van": "2025-10-05",
+        "tot": "2025-10-22",
+        "tekst": "In oktober staat onze koekjesverkoop weer op de planning, opnieuw met overheerlijke Milka-pakketten. Perfect getimed ook: ze worden geleverd eind november - begin december, vlak voor de examens. Zo is er gegarandeerd genoeg comfortfood in huis!"
+      },
+      {
+        "tag": "Activiteit",
+        "titel": "Bestelronde clubkledij Comar",
+        "van": "2025-10-15",
+        "tekst": "Deadline 15/10. We vragen iedereen om minstens één T-shirt aan te schaffen, zodat we straks samen kunnen schitteren in onze ZNA-clubkledij op alle podia van de zwemwedstrijden."
+      },
+      {
+        "tag": "Oproep",
+        "titel": "Wanted: officials",
+        "tekst": "Wedstrijden kunnen gewoon niet doorgaan zonder voldoende officials. Voor elke 10 zwemmers moet een club minstens één official voorzien. Daarom een warme oproep aan alle ouders, zeker aan die van onze jongste zwemmers: schrijf je in voor de TAK-cursus (Tijdopnemer, Aankomstrechter, Keerpuntrechter)! De club betaalt zowel je inschrijving als je uitrusting.\n\nWat levert het jou op? Je ontdekt een nieuwe hobby, je leert toffe mensen kennen, je zit niet de hele wedstrijd te puffen in een warm zwembad maar levert écht een waardevolle bijdrage aan de club én aan je kind, en je snapt meteen beter waar je kind zo enthousiast over is.\n\nInlichtingen bij de trainers of bij de huidige officials!"
+      },
+      {
+        "tag": "Save the date",
+        "titel": "Stages zomer 2026",
+        "tekst": "Stage A-groep: 1 juli 2026 → 8 juli 2026.\n\nStage Beloften & Jongeren: eerste week van de zomervakantie."
+      },
+      {
+        "tag": "Save the date",
+        "titel": "Clubfeest",
+        "tekst": "Datum volgt."
+      },
+      {
+        "tag": "Varia",
+        "titel": "Zin in een ZNA-quiz?",
+        "tekst": "We dromen ervan om een gezellige quizavond te organiseren voor zwemmers, ouders, sponsors en sympathisanten. Alleen… quizzen organiseren is voor ons nog onbekend terrein. Daarom zoeken we enkele enthousiaste ouders: 2 ouders die samen met Isabelle & Cindy het praktische regelen, 2 ouders die een leuke quiz willen samenstellen en 2 ouders die op pad gaan voor coole prijzen. Zin om mee te doen? Spreek gerust Isabelle of Cindy aan!"
+      },
+      {
+        "tag": "Varia",
+        "titel": "WhatsApp-berichten",
+        "tekst": "De WhatsApp-groepen worden vaak overspoeld met berichten over wie wel of niet, tijdig of te laat op training zal zijn, waardoor de informatie van de trainers verloren gaat. We vragen dan ook om voortaan alleen langdurige afwezigheden (vanaf 1 week) te melden. Alvast bedankt voor jullie begrip en medewerking!"
+      }
+    ]
+  },
+  "sponsors": {
+    "titel": "Dank aan onze sponsors",
+    "items": [
+      {
+        "naam": "Pleister- en gyprocwerken Jacob Bart",
+        "logo": "../../assets/sponsors/jacob-bart.png"
+      },
+      {
+        "naam": "Comar Sport",
+        "logo": "../../assets/sponsors/comar-sport.png",
+        "url": "https://www.comarsport.be"
+      },
+      {
+        "naam": "Speedo",
+        "logo": "../../assets/sponsors/speedo.png"
+      }
+    ],
+    "vrij": "Hier is nog een plaatsje vrij. Interesse? Laat het ons weten via cindy.moens@neptunusaalst.be of isabelle.depoot@neptunusaalst.be"
+  }
+}

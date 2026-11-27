@@ -1,0 +1,384 @@
+{
+  "editie": "2025-q4",
+  "titel": "Nieuwsbrief",
+  "periode": "Q4 2025",
+  "ondertitel": "Oktober - december 2025",
+  "redactie": "",
+  "gepubliceerd": null,
+  "concept": false,
+  "intro": "",
+  "wedstrijden": {
+    "titel": "Wedstrijdnieuws",
+    "voetnoot": "De medailles worden alfabetisch op achternaam vermeld.",
+    "intro": "Dit najaar namen we deel aan zeven wedstrijden. Onze zwemmers behaalden mooie resultaten en als kers op de taart verbeterde Noah het Belgisch record op de 200 schoolslag in klein bad. Daarmee plaatste hij zich voor het EK in Lublin (Polen). Hoog tijd om alles op een rijtje te zetten.",
+    "items": [
+      {
+        "naam": "Regionaal Criterium dag 1",
+        "plaats": "Sint-Niklaas",
+        "van": "2025-10-05",
+        "goud": [
+          "Ada (200W)",
+          "Lotte (50S)",
+          "Nils (50VL, 200W)",
+          "Nan (100VL)",
+          "Seppe (50S, 200W)",
+          "Heren 4x50W (Mathias B, Seppe, Nils, Arman)",
+          "Dames 4x50 (Chahd, Lotte, Ella, Emma)"
+        ],
+        "zilver": [
+          "Ella (50VL)",
+          "Telma (50S)",
+          "Seppe (100VL)",
+          "Heren 4x50W (Juul, Nand, Adam, Dennis)",
+          "Dames 4x50W (Sien, Nore, Liesl, Tinne)"
+        ],
+        "brons": [
+          "Liesl (100VL)",
+          "Mathias B (50S, 100VL)",
+          "Heren 4x50W (Nan, Wail, Lukas, Elano)",
+          "Heren 4x50W (Leon, Ruud, Maher, Thor)"
+        ]
+      },
+      {
+        "naam": "Provinciaal Kampioenschap Korte Baan",
+        "plaats": "Ronse",
+        "van": "2025-10-11",
+        "tot": "2025-10-12",
+        "tekst": "Een greep uit de medaille-oogst zie je in de foto's hieronder.",
+        "goud": [
+          "Lotte (50S, 100S, 200S)",
+          "Lily (50S, 50VL, 100VL)",
+          "Emelie (50V, 100V, 50R, 100R, 200W)",
+          "Diede (50S, 200S)",
+          "Gaetan (100S)",
+          "Bavo (50S)",
+          "Tymon (50V, 100V, 50R, 100R, 200R)",
+          "Dames 4x100V (Emelie, Nina, Lily, Lotte)"
+        ],
+        "zilver": [
+          "Nina (50VL)",
+          "Lily (100S, 200VL)",
+          "Alicia (200S)",
+          "Diede (100S)",
+          "Xibe (50V, 200V)",
+          "Arman (50S)",
+          "Seppe (50V)",
+          "Bavo (100S, 200S)",
+          "Dames 4x100W (Emelie, Nina, Lily, Lotte)",
+          "Gemengd 4x100V (Tymon, Nand, Emelie, Nina)",
+          "Gemengd 4x100W (Emelie, Lotte, Tymon, Nand)"
+        ],
+        "brons": [
+          "Nina (50V, 100VL)",
+          "Geike (50V)",
+          "Jinne (100S, 200S)",
+          "Mathias B (50V)",
+          "Gaetan (50S)",
+          "Xibe (100V, 200W)",
+          "Rune (100S)",
+          "Thor (200S)",
+          "Mathias D (200S)",
+          "Elano (50V)",
+          "Heren 4x100V (Gaetan, Adam, Xibe, Mathias D)",
+          "Heren 4x100V (Tymon, Rune, Nand, Arman)"
+        ],
+        "fotos": [
+          {
+            "src": "fotos/pk-ronse-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-8.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-9.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-11.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-12.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/pk-ronse-13.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Memorial Anteunis",
+        "plaats": "Gent",
+        "van": "2025-10-18",
+        "tekst": "Na het lange PK-weekend trokken 6 meisjes en 9 jongens naar de Memorial Anteunis in Gent. Nell, Emma, Alicia, Geike, Ada, Lotte, Mathias B, Rune, Thor, Leon, Elano, Nand, Arman, Seppe en Bavo zetten mooie resultaten neer. Ze zwommen maar liefst **30 persoonlijke records** bij elkaar. Topprestatie!"
+      },
+      {
+        "naam": "Vlaams Jeugdkampioenschap korte baan",
+        "plaats": "Temse",
+        "van": "2025-11-15",
+        "tot": "2025-11-17",
+        "tekst": "Mathias B, Arman, Seppe, Bavo, Tymon, Nina, Lotte, Lily, Emelie, Alicia en Geike vertegenwoordigden KZNA. Samen verbeterden ze 33 persoonlijke records en Emelie behaalde twee podiumplaatsen!",
+        "zilver": [
+          "Emelie (100V)"
+        ],
+        "brons": [
+          "Emelie (100R)"
+        ],
+        "fotos": [
+          {
+            "src": "fotos/vjk-temse.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Regionaal Criterium dag 2",
+        "plaats": "Dendermonde",
+        "van": "2025-11-22",
+        "goud": [
+          "Geike (50R)",
+          "Diede (200V)",
+          "Mathias B (100S)",
+          "Gaetan (200V, 50R)",
+          "Xibe (50R)",
+          "Seppe (200V, 50R, 50VL)",
+          "Tymon (100S)"
+        ],
+        "zilver": [
+          "Jenne (100S)",
+          "Alicia (50R)",
+          "Ada (200V)",
+          "Adam (100S)",
+          "Mathias B (50R)",
+          "Xibe (50VL)",
+          "Juul (50R)",
+          "Nand (50R)"
+        ],
+        "brons": [
+          "Liesl (50VL)",
+          "Mathias B (50VL)",
+          "Xibe (100S)",
+          "Elano (200V)",
+          "Arman (50R)"
+        ]
+      },
+      {
+        "naam": "DZO najaarsmeeting",
+        "plaats": "Dendermonde",
+        "van": "2025-11-22",
+        "goud": [
+          "Emelie (100V, 100W)",
+          "Diede (100W, 200W)",
+          "Nand (50V, 100W)",
+          "Tymon (50V)"
+        ],
+        "zilver": [
+          "Lotte (50V)",
+          "Lily (200W)",
+          "Xibe (400V)",
+          "Tymon (200W)"
+        ],
+        "brons": [
+          "Nina (50V)",
+          "Lotte (200W)",
+          "Nand (100V)"
+        ]
+      },
+      {
+        "naam": "Interne wedstrijd Start, Jongeren en Beloften",
+        "plaats": "",
+        "van": "2025-11-22",
+        "tekst": "Door een tekort aan officials konden de jongste groepen niet deelnemen aan het Regionaal Criterium in Dendermonde. Trainers Kato, Birthe, Marie, Ciaran en Mauro organiseerden daarom zelf een interne wedstrijd, zodat ook onze jongste zwemmertjes wedstrijdgevoel krijgen.",
+        "fotos": [
+          {
+            "src": "fotos/interne-wedstrijd.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Groeitraject dag 2",
+        "plaats": "Beernem",
+        "van": "2025-12-06",
+        "tekst": "Het groeitraject is een nieuw project gericht op beginnende competitiezwemmers tussen 8 en 12 jaar, met medailles voor iedereen! Het doel is de overstap naar het reguliere competitiecircuit te vergemakkelijken.\n\nTrainer Mauro trok voor dag 2 met 7 zwemmers van de startgroep naar het zwembad van Beernem: Rémy, Lyam, Ybe, Victor, Nylo, Emma en Yasmine.",
+        "fotos": [
+          {
+            "src": "fotos/groeitraject-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "fotos/groeitraject-2.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "naam": "Midwintertest AST",
+        "plaats": "Aalst",
+        "van": "2025-12-20",
+        "goud": [
+          "Emelie (200V)",
+          "Mila (400V)"
+        ],
+        "zilver": [
+          "Nina (400V)",
+          "Diede (400W)",
+          "Adam (400V)",
+          "Gaetan (200S)",
+          "Xibe (200V)",
+          "Mathias (100S)"
+        ],
+        "brons": [
+          "Liesl (100V)",
+          "Jinne (200S)",
+          "Mathias (200S)",
+          "Tymon (100R)"
+        ]
+      }
+    ]
+  },
+  "stages": {
+    "titel": "Vooruitblik stages",
+    "items": [
+      {
+        "titel": "Ptuj 2026",
+        "groep": "A-groep",
+        "van": "2026-07-01",
+        "tot": "2026-07-08",
+        "tekst": "Net als vorig jaar zullen onze oudste zwemmers de omgeving van Ptuj onveilig maken. Ze vertrekken op 1 juli en keren op 8 juli helemaal klaargestoomd terug voor de belangrijke wedstrijden in Antwerpen.\n\nHet verblijf is iets korter dan voorgaande jaren. Daarom is het mogelijk om voor dezelfde prijs te genieten van het hotelbuffet, iets wat de zwemmers zeker zullen appreciëren. Deelnemers krijgen in de loop van januari een mail om de eerste schijf over te schrijven, want de club heeft al een voorschot betaald."
+      },
+      {
+        "titel": "Zomerstage",
+        "groep": "Beloften, Jongeren en Start",
+        "tekst": "Ook de jongere groepen trekken er deze zomer opnieuw op uit. De trainers zijn momenteel de verschillende opties aan het afwegen en zullen ouders en zwemmers informeren zodra mogelijk."
+      }
+    ]
+  },
+  "kalender": {
+    "titel": "Wedstrijdkalender Q1 2026",
+    "items": [
+      {
+        "naam": "STW Wintermeeting",
+        "plaats": "Sint-Niklaas",
+        "van": "2026-01-11"
+      },
+      {
+        "naam": "Regionaal Criterium dag 3",
+        "plaats": "Wachtebeke",
+        "van": "2026-01-25"
+      },
+      {
+        "naam": "Oost-Vlaamse Kampioenschappen",
+        "plaats": "Wachtebeke",
+        "van": "2026-01-31",
+        "tot": "2026-02-01",
+        "details": "Selectie o.b.v. limieten"
+      },
+      {
+        "naam": "Mega Swim Meet",
+        "plaats": "",
+        "van": "2026-02-08",
+        "details": "Selectie i.f.v. limieten"
+      },
+      {
+        "naam": "Groeitraject dag 3",
+        "plaats": "",
+        "van": "2026-02-28"
+      },
+      {
+        "naam": "Regionaal Criterium dag 4",
+        "plaats": "Zottegem",
+        "van": "2026-03-01"
+      },
+      {
+        "naam": "VJK 11-16j",
+        "plaats": "Antwerpen",
+        "van": "2026-03-06",
+        "tot": "2026-03-08",
+        "details": "Selectie o.b.v. limieten"
+      },
+      {
+        "naam": "Vlaams Lentecriterium",
+        "plaats": "Antwerpen",
+        "van": "2026-03-14",
+        "tot": "2026-03-15"
+      },
+      {
+        "naam": "Flanders Swimming Cup 17j+",
+        "plaats": "Antwerpen",
+        "van": "2026-03-20",
+        "tot": "2026-03-22",
+        "details": "Selectie o.b.v. limieten"
+      }
+    ]
+  },
+  "extra": {
+    "titel": "Extra",
+    "items": [
+      {
+        "tag": "Clubrecords",
+        "titel": "Clubrecords 2025",
+        "tekst": "In 2025 sneuvelden ook een groot aantal clubrecords, onder meer door Lotte Bullen, Lily De Smet, Emelie Eelbode en Diede Ruyssinck. De zwemmers worden gehuldigd op het Gala van de Gouden Drietand, het vernieuwde clubfeest. Binnenkort worden alle clubrecords gepubliceerd op de website."
+      },
+      {
+        "tag": "Clubrecords",
+        "titel": "2025, het jaar van Noah",
+        "tekst": "Voor Noah was 2025 een fantastisch jaar. Hij zwom drie nieuwe clubrecords: 26.80 op 50S, 59.00 op 100S en 2.04.51 op 200S. Zijn tussentijd na 100m was toen 58.73, sneller dan zijn besttijd. Moet kunnen ;-)\n\nMet die 2.04.51 zwom hij op de Open Belgian Championships in Gent niet alleen een clubrecord, maar ook een **Belgisch record** én hij kwalificeerde zich voor het Europees Kampioenschap in klein bad, waar hij de halve finale bereikte. Weer een ervaring op internationaal niveau rijker!",
+        "fotos": [
+          {
+            "src": "fotos/noah-2025.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "tag": "Save the date",
+        "titel": "Het Gala van de Gouden Drietand",
+        "van": "2026-01-18",
+        "plaats": "Walstroom, Tragel 5, Aalst",
+        "tekst": "Op 18 januari 2026 vindt ons allereerste Gala van de Gouden Drietand plaats. Iedereen, zwemmers en familie, wordt vanaf 16u00 verwacht.\n\nWe starten met een glaasje bubbels om het nieuwe jaar feestelijk in te zetten. Onze voorzitter Rudi Van Horen en secretaris Philippe Dhaen toasten graag mee, al zijn het onze zwemmers die de hele avond in het middelpunt van de belangstelling staan. Een special guest zorgt voor de prijsuitreiking en een foodtruck serveert heerlijke pasta's. Om 22u00 sluiten we de deuren.\n\nInschrijven was verplicht via overschrijving (18 euro per persoon, voor pasta en welkomstdrank), uiterlijk 14 januari."
+      },
+      {
+        "tag": "Oproep",
+        "titel": "Officials wanted",
+        "tekst": "We zeggen het vaak en met reden: we hebben dringend extra officials nodig! In november konden heel wat zwemmers van de beloften en jongeren niet deelnemen aan de wedstrijd in Dendermonde door een tekort aan officials.\n\nWedstrijden kunnen gewoon niet doorgaan zonder voldoende officials. Voor elke 10 zwemmers moet een club minstens één official voorzien. Daarom een warme oproep aan alle ouders, zeker aan die van onze jongste zwemmers: schrijf je in voor de TAK-cursus (Tijdopnemer, Aankomstrechter, Keerpuntrechter)! De club betaalt zowel je inschrijving als je uitrusting.\n\nWat levert het jou op? Je ontdekt een nieuwe hobby, je leert toffe mensen kennen, je zit niet de hele wedstrijd te puffen in een warm zwembad maar levert écht een waardevolle bijdrage aan de club én aan je kind, en je snapt meteen beter waar je kind zo enthousiast over is.\n\nInlichtingen bij de trainers of bij de huidige officials!"
+      },
+      {
+        "tag": "Varia",
+        "titel": "Varia",
+        "tekst": "In Q1 staat voor de A-groep een infomoment rond voeding en training gepland. Na de enquête voor de zwemmers, de beeldopnames van hun techniek en de lactaattesten is dit een volgende stap in de professionalisering van onze begeleiding.\n\nIn Q2 willen we een quiz organiseren. De vragen zijn er (dank je wel, Robin!), nu nog een datum en een locatie. Wie voelt zich geroepen om deze plezante avond (mee) op poten te zetten?\n\nRecent is voor de A-groep een tweede WhatsApp-kanaal gestart voor alle info over de wedstrijden. Als dit experiment slaagt, rollen we dit uit naar alle groepen. Ouders en trainers van de A-groep, we rekenen op jullie!"
+      }
+    ]
+  }
+}

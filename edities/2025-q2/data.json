@@ -1,0 +1,374 @@
+{
+  "editie": "2025-q2",
+  "titel": "Nieuwsbrief",
+  "periode": "Q2 2025",
+  "ondertitel": "April 2025 · over officials, wedstrijden, stages en de website",
+  "redactie": "",
+  "gepubliceerd": null,
+  "concept": false,
+  "intro": "",
+  "wedstrijden": {
+    "titel": "Wedstrijdnieuws",
+    "intro": "",
+    "items": [
+      {
+        "naam": "Wintermeeting",
+        "plaats": "Sint-Niklaas",
+        "van": "2025-01-12",
+        "tekst": "21 zwemmers namen deel.",
+        "goud": [
+          "Emelie (2x)",
+          "Thor",
+          "Tymo"
+        ],
+        "zilver": [
+          "Tymon"
+        ],
+        "brons": [
+          "Diede",
+          "Geike",
+          "Elano",
+          "Thor"
+        ]
+      },
+      {
+        "naam": "Regionaal criterium O-Vl dag 3",
+        "plaats": "Wachtebeke",
+        "van": "2025-01-19",
+        "tekst": "45 zwemmers namen deel.",
+        "goud": [
+          "Geike",
+          "Marilou",
+          "Gaetan",
+          "Lukas",
+          "Thor",
+          "Xibe",
+          "4x100 vrije slag (Juul, Adam, Dennis, Klaas)"
+        ],
+        "zilver": [
+          "Kato",
+          "Lotte (2x)",
+          "Telma",
+          "Adam",
+          "Rune",
+          "Xibe"
+        ],
+        "brons": [
+          "Tinne",
+          "Arman",
+          "Gaetan",
+          "Mathias",
+          "Ruud"
+        ]
+      },
+      {
+        "naam": "Vlaamse JeugdTalent Challenge",
+        "plaats": "Antwerpen",
+        "van": "2025-01-24",
+        "tot": "2025-01-26",
+        "tekst": "Emelie en Tymon vertegenwoordigden de club. Emelie werd **1ste in het algemeen klassement**, Tymon 8ste.",
+        "goud": [
+          "Emelie"
+        ],
+        "zilver": [
+          "Emelie (3x)"
+        ]
+      },
+      {
+        "naam": "Vlaams Wintercriterium",
+        "plaats": "Antwerpen",
+        "van": "2025-02-01",
+        "tot": "2025-02-02",
+        "tekst": "35 zwemmers namen deel.",
+        "goud": [
+          "Kato",
+          "Thor"
+        ],
+        "brons": [
+          "Marilou",
+          "Arman"
+        ]
+      },
+      {
+        "naam": "Flanders Swimming Cup",
+        "plaats": "Antwerpen",
+        "van": "2025-02-07",
+        "tot": "2025-02-09",
+        "tekst": "Noah, Diede, Gaetan en Xibe namen deel. Diede zwom 2 finales.",
+        "goud": [
+          "Noah (200SS)"
+        ],
+        "zilver": [
+          "Noah (100SS)"
+        ],
+        "brons": [
+          "Noah (200VL)"
+        ]
+      },
+      {
+        "naam": "Mega Swim Meet",
+        "plaats": "Gent",
+        "van": "2025-02-22",
+        "tot": "2025-02-23",
+        "tekst": "22 zwemmers namen deel.",
+        "goud": [
+          "Tymon (2x)"
+        ],
+        "zilver": [
+          "Tymon"
+        ],
+        "brons": [
+          "Brecht (2x)",
+          "Thor",
+          "Tymon"
+        ]
+      },
+      {
+        "naam": "Regionaal criterium O-Vl dag 4",
+        "plaats": "Zottegem",
+        "van": "2025-03-09",
+        "tekst": "37 zwemmers namen deel.",
+        "goud": [
+          "Ada",
+          "Alicia",
+          "Emelie (2x)",
+          "Lukas",
+          "Tymon",
+          "4x100 wissel heren (Leon, Arman, Mathias, Maher)",
+          "4x100 wissel dames (Kato, Jinne, Nore, Tinne)"
+        ],
+        "zilver": [
+          "Lotte",
+          "Tinne",
+          "Arman",
+          "Cas",
+          "Lukas",
+          "Mathias (2x)",
+          "Nand",
+          "Nils (2x)",
+          "Rune",
+          "4x100 wissel heren (Nand, Rune, Tymon, Lukas)",
+          "4x100 wissel dames (Alicia, Marilou, Geike, Lotte)"
+        ],
+        "brons": [
+          "Chad",
+          "Ella (2x)",
+          "Lotte",
+          "Marilou",
+          "Arman"
+        ]
+      },
+      {
+        "naam": "Beker Van Puymbrouck",
+        "plaats": "Sint-Niklaas",
+        "van": "2025-03-16",
+        "tekst": "27 zwemmers namen deel. ZNA werd **derde in het algemeen eindklassement**!",
+        "goud": [
+          "Birthe (2x)",
+          "Diede",
+          "Emelie (2x)",
+          "Geike",
+          "Thor",
+          "Tymon",
+          "Xibe"
+        ],
+        "zilver": [
+          "Diede (2x)",
+          "Emelie",
+          "Lore",
+          "Gaetan",
+          "Tymon (2x)",
+          "Xibe"
+        ],
+        "brons": [
+          "Amina",
+          "Kato",
+          "Arman",
+          "Elano",
+          "Lukas",
+          "Nan",
+          "Nathan (2x)"
+        ]
+      },
+      {
+        "naam": "Antwerp Diamond Swimming Race",
+        "plaats": "Antwerpen",
+        "van": "2025-03-29",
+        "tot": "2025-03-30",
+        "tekst": "Noah behaalde goud op de 200m schoolslag!",
+        "goud": [
+          "Noah (200SS)"
+        ]
+      },
+      {
+        "naam": "Regionaal criterium O-Vl dag 5",
+        "plaats": "Temse",
+        "van": "2025-03-30",
+        "tekst": "31 zwemmers namen deel.",
+        "goud": [
+          "Ada",
+          "Diede",
+          "Klaas",
+          "Nils"
+        ],
+        "zilver": [
+          "Birthe (2x)",
+          "Geike"
+        ],
+        "brons": [
+          "Alicia",
+          "Arman (2x)",
+          "Juul",
+          "Kyan",
+          "Nils",
+          "Xibe"
+        ]
+      }
+    ]
+  },
+  "stages": {
+    "titel": "Stages",
+    "items": [
+      {
+        "titel": "Stages zomer 2025",
+        "groep": "Jongeren, Beloften en A-groep",
+        "tekst": "Stage Slovenië: de mail met betalingsinfo is verstuurd.\n\nStage Nieuwpoort: de mail komt eraan!\n\nNiets ontvangen? Laat het weten via rebecca.de.smedt@neptunusaalst.be"
+      }
+    ]
+  },
+  "kalender": {
+    "titel": "Wedstrijdkalender Q2 2025",
+    "items": [
+      {
+        "naam": "Allround Swimming Cup",
+        "plaats": "Eeklo",
+        "van": "2025-04-21",
+        "details": "25m-bad"
+      },
+      {
+        "naam": "Open BK",
+        "plaats": "Antwerpen",
+        "van": "2025-04-25",
+        "tot": "2025-04-27",
+        "details": "50m-bad · wedstrijd op limieten · deelnemers Noah en Emelie"
+      },
+      {
+        "naam": "First meeting",
+        "plaats": "Gent",
+        "van": "2025-05-02",
+        "tot": "2025-05-03",
+        "details": "50m-bad · i.f.v. limieten BK 15+"
+      },
+      {
+        "naam": "Memorial Herman Braeckman",
+        "plaats": "Aalst",
+        "van": "2025-05-11",
+        "details": "50m-bad"
+      },
+      {
+        "naam": "Finale regionaal criterium",
+        "plaats": "Temse",
+        "van": "2025-05-18",
+        "details": "25m-bad · op uitnodiging"
+      },
+      {
+        "naam": "Zomerwedstrijd",
+        "plaats": "Aalst",
+        "van": "2025-06-26",
+        "details": "50m-bad"
+      },
+      {
+        "naam": "Vlaams Zomercriterium",
+        "plaats": "Antwerpen",
+        "van": "2025-07-11",
+        "tot": "2025-07-13",
+        "details": "50m-bad"
+      },
+      {
+        "naam": "SCZ recordpoging",
+        "plaats": "Zaventem",
+        "van": "2025-07-15",
+        "details": "25m-bad"
+      },
+      {
+        "naam": "Belgisch Jeugdkampioenschap",
+        "plaats": "Antwerpen",
+        "van": "2025-07-18",
+        "tot": "2025-07-20",
+        "details": "50m-bad · limiettijden"
+      },
+      {
+        "naam": "STW recordpoging",
+        "plaats": "Sint-Niklaas",
+        "van": "2025-07-22",
+        "details": "25m-bad"
+      },
+      {
+        "naam": "Belgisch Kampioenschap",
+        "plaats": "Antwerpen",
+        "van": "2025-07-25",
+        "tot": "2025-07-27",
+        "details": "50m-bad · limiettijden"
+      }
+    ]
+  },
+  "extra": {
+    "titel": "Extra",
+    "items": [
+      {
+        "tag": "Officials",
+        "titel": "Nieuwe officials!",
+        "tekst": "Na Ellen, Els en Peter (als starter) slaagde ook Greg (papa van Kato en Geike) voor zijn examen. Proficiat!!\n\nOmdat het aantal zwemmers groeit, hebben we nog steeds te weinig officials, zeker voor de jongere groepen. Per 10 zwemmers moet de club één official afvaardigen. Zijn er te weinig en willen we toch deelnemen, dan kost dit 50 euro per official per wedstrijd. Daarom deze warme oproep.\n\nDe volgende opleiding vindt plaats in Lokeren op 13 (theorie) en 27 september (theorie + examen), telkens van 9u00 tot 13u00. Zwemkennis is niet nodig! Info bij trainer Joachim of Rebecca (mama Diede).\n\n**Onze officials:** Cindy (mama van Gaetan en Eloïse), Ellen (mama van Ada), Els (mama van Mathias), Leen (mama van Sien), Peter (papa van Jinne), Sofie (mama van Tinne) en Greg (papa van Kato en Geike)."
+      },
+      {
+        "tag": "Nieuw",
+        "titel": "Nieuwe website",
+        "tekst": "Sinds kort hebben we een spiksplinternieuwe website. Je vindt er alle informatie over wedstrijden, API's, trainingsuren en limiettijden. De website wordt momenteel nog aangevuld met extra informatie.",
+        "link": "https://www.neptunusaalst.be",
+        "linktekst": "Naar neptunusaalst.be"
+      },
+      {
+        "tag": "Oproep",
+        "titel": "Nieuw logo voor 100 jaar KZNA",
+        "tekst": "In 2028 viert KZNA – Neptunus Aalst haar 100-jarig bestaan en dat willen we vieren in stijl! We zoeken een creatief talent onder onze leden om een nieuw logo te ontwerpen dat onze rijke geschiedenis én toekomst weerspiegelt.\n\nWe zoeken iemand die dit vrijwillig of tegen een kleine vergoeding wil doen, puur uit passie voor de club. In ruil krijg je eeuwige dankbaarheid, de eer om het officiële logo te ontwerpen én een mooie vermelding tijdens onze feestelijkheden.\n\nInteresse? Laat van je horen voor 20 mei via philippe.dhaen@neptunusaalst.be! Begin juli plannen we voor alle geïnteresseerden een gesprek met het bestuur."
+      },
+      {
+        "tag": "Save the date",
+        "titel": "Memorial Herman Braeckman",
+        "van": "2025-05-11",
+        "plaats": "Aalst",
+        "tekst": "Onze jaarlijkse wedstrijd komt eraan. Dit jaar willen we het succes van vorig jaar overtreffen! We zoeken nog enkele helpers en veel sponsors: info via rebecca.de.smedt@neptunusaalst.be.\n\n**Zwemmers:** kom in clubkledij, want er worden foto's genomen!\n\n**Advertentie in het programmaboek:** €40 voor 1/4 blz, €80 voor 1/2 blz, €150 voor 1 blz."
+      },
+      {
+        "tag": "Save the date",
+        "titel": "Zomerwedstrijd",
+        "van": "2025-06-26",
+        "tekst": "We nemen uitzonderlijk de wedstrijd van AST over op 26 juni (namiddag). Hou jullie mailbox en WhatsApp in de gaten voor meer informatie!"
+      },
+      {
+        "tag": "Cursus",
+        "titel": "Word Hoger Redder",
+        "van": "2025-07-14",
+        "tot": "2025-07-27",
+        "plaats": "Aquatopia",
+        "tekst": "Ook dit jaar organiseert Neptunus, in samenwerking met RedFed, een cursus Hoger Redder. Dé kans om je zwemvaardigheden naar een hoger niveau te tillen!\n\nDe cursus bestaat uit 8 modules: 4 worden afgerond met een theoretisch examen, 4 met een praktisch examen. Voorwaarde: je wordt in de loop van 2025 minstens 17 jaar (geboortejaar 2008 en ouder). Inschrijvingskost: €290.\n\nGoed nieuws: de club betaalt dit bedrag terug als je slaagt én je je vervolgens (tegen een vergoeding) engageert als redder tijdens trainingen en/of wedstrijden. Meer info op de website van RedFed (Kalender > Cursus).",
+        "link": "https://www.redfed.be",
+        "linktekst": "Naar RedFed"
+      }
+    ]
+  },
+  "sponsors": {
+    "titel": "Dank aan onze sponsors",
+    "items": [
+      {
+        "naam": "Pleister- en gyprocwerken Jacob Bart",
+        "logo": "../../assets/sponsors/jacob-bart.png"
+      },
+      {
+        "naam": "Speedo",
+        "logo": "../../assets/sponsors/speedo.png"
+      }
+    ],
+    "vrij": "Hier is nog een plaatsje vrij. Interesse? Laat het ons weten via rebecca.de.smedt@neptunusaalst.be"
+  }
+}

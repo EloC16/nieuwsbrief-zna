@@ -9,6 +9,7 @@
   // eenvoudige opmaak in teksten: **vet**, lege regel = nieuwe alinea, links klikbaar
   const tekst = (s) => esc(s)
     .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*([^*]+)\*/g, "<em>$1</em>")
     .replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>')
     .replace(/([\w.+-]+@[\w-]+\.[\w.]+[a-z])/gi, '<a href="mailto:$1">$1</a>')
     .split(/\n\s*\n/).map((p) => `<p>${p.replace(/\n/g, "<br>")}</p>`).join("");
@@ -97,12 +98,13 @@
     const k = d.kalender;
     if (k && k.items && k.items.length) {
       nav.push(["kalender", "Kalender"]);
-      const vandaag = new Date(); vandaag.setHours(0, 0, 0, 0);
+      // wedstrijden vóór de publicatiedatum van de editie worden grijs (oude edities: niets grijs)
+      const vandaag = parseDatum(d.gepubliceerd);
       body += `<section class="blok" id="kalender"><h2 class="sectietitel">${esc(k.titel || "Wedstrijdkalender")}</h2>
         ${k.intro ? `<div class="sectie-intro">${tekst(k.intro)}</div>` : ""}
         <ul class="kalender">` + k.items.map((x) => {
           const eind = parseDatum(x.tot || x.van);
-          const voorbij = eind && eind < vandaag ? " voorbij" : "";
+          const voorbij = vandaag && eind && eind < vandaag ? " voorbij" : "";
           return `<li class="${voorbij}"><div class="wanneer">${periode(x.van, x.tot)}</div>
             <div class="wat">${esc(x.naam)}${x.gewijzigd ? ' <span class="gewijzigd">Gewijzigd</span>' : ""}</div><div class="details">${esc([x.plaats, x.details].filter(Boolean).join(" · "))}</div></li>`;
         }).join("") + `</ul>${todo(k.todo)}</section>`;
@@ -112,10 +114,11 @@
     if (e && e.items && e.items.length) {
       nav.push(["extra", "Extra"]);
       body += `<section class="blok" id="extra"><h2 class="sectietitel">${esc(e.titel || "Extra")}</h2><div class="extra-grid">` +
-        e.items.map((x) => `<article class="kaart${x.tag === "Save the date" ? " save-the-date" : ""}">
+        e.items.map((x) => `<article class="kaart${x.tag === "Save the date" ? " save-the-date" : ""}${(x.fotos && x.fotos.length) || (x.tekst || "").length > 450 ? " breed" : ""}">
           ${x.tag ? `<span class="tag">${esc(x.tag)}</span>` : ""}<h3>${esc(x.titel)}</h3>
           ${x.van ? `<div class="plaats">${periode(x.van, x.tot, true)}${x.plaats ? " · " + esc(x.plaats) : ""}</div>` : ""}
           ${x.tekst ? tekst(x.tekst) : ""}
+          ${fotos(x.fotos)}
           ${x.link ? `<a class="knop" href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.linktekst || "Meer info")}</a>` : ""}
           ${todo(x.todo)}</article>`).join("") + `</div></section>`;
     }

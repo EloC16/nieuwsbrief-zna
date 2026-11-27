@@ -1,6 +1,7 @@
 [
-  {
-    "code": "2026-q2q3",
-    "periode": "Q2 + Q3 2026"
-  }
+  {"code": "2026-q2q3", "periode": "Q2 + Q3 2026"},
+  {"code": "2026-q1", "periode": "Q1 2026"},
+  {"code": "2025-q4", "periode": "Q4 2025"},
+  {"code": "2025-q3", "periode": "Q3 2025"},
+  {"code": "2025-q2", "periode": "Q2 2025"}
 ]
