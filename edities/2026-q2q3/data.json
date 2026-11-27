@@ -223,18 +223,14 @@
         "van": "2026-07-10",
         "tot": "2026-07-12",
         "goud": [
-          "Kato (200SS)",
-          "Lotte VN (50SS)"
+          "Kato (200SS)"
         ],
         "zilver": [
-          "Mathias B (100VS)",
           "Jinne (100SS, 200SS)",
-          "Lotte VN (100SS)",
           "Lotte VN (klassement schoolslag)",
           "Aflossingsploeg dames"
         ],
         "brons": [
-          "Mathias B (100VL)",
           "Mathias B (klassement vlinderslag, klassement vrije slag)",
           "Aflossingsploeg meisjes"
         ],
@@ -251,7 +247,7 @@
         "zilver": [
           "Emelie (100R, 200R)"
         ],
-        "tekst": "Naast de medailles van Emelie en Nils waren er nog heel wat top 8-plaatsen: Nils werd 8e op 100m vlinderslag, Bavo 5e op 200m schoolslag en 7e op 100m schoolslag, Lily 5e op 100m schoolslag en 6e op 200m schoolslag, Emelie 5e op 200m vrije slag en Alicia 6e op 100m schoolslag en 7e op 200m schoolslag. De meisjesestafette werd 4e op de 4x100m vrije slag.",
+        "tekst": "Wat een prestatie van Emelie: zij kroonde zich tot **Belgisch kampioen op de 100m vrije slag**! Met 59.06 dook ze bovendien onder haar persoonlijk record, en daar kwamen nog twee zilveren medailles bij op de 100m en 200m rugslag. Ook Nils pakte een medaille, brons op de 100m rugslag.\n\nDaarnaast waren er nog heel wat top 8-plaatsen: Nils werd 8e op 100m vlinderslag, Bavo 5e op 200m schoolslag en 7e op 100m schoolslag, Lily 5e op 100m schoolslag en 6e op 200m schoolslag, Emelie 5e op 200m vrije slag en Alicia 6e op 100m schoolslag en 7e op 200m schoolslag. De meisjesestafette werd 4e op de 4x100m vrije slag.",
         "todo": "tekst nalezen",
         "brons": [
           "Nils (100R)"
@@ -269,7 +265,7 @@
         "naam": "Europees Kampioenschap (50m)",
         "plaats": "Parijs",
         "van": "2026-08-12",
-        "tekst": "Wat een moment: Noah stond op 12 augustus aan de start van de 200m schoolslag op het **Europees Kampioenschap** in Parijs! Dat lieten zijn trainers niet aan zich voorbijgaan: Anneleen, Maarten, Joachim en Eloïse trokken op citytrip naar Parijs om hem vanop de tribune aan te moedigen.\n\nNoah, we zijn ongelooflijk fier op jou!",
+        "tekst": "Wat een moment: Noah stond op 12 augustus aan de start van de 200m schoolslag op het **Europees Kampioenschap** in Parijs! Dat lieten de trainers van de A-groep, Anneleen, Maarten, Joachim en Eloïse, niet aan zich voorbijgaan: ze trokken op citytrip naar Parijs om hem vanop de tribune aan te moedigen.\n\nOngelooflijk trots op de prestatie van Noah en de weg ernaartoe!",
         "fotos": [
           {
             "src": "fotos/ek-parijs.jpg",
@@ -365,26 +361,26 @@
       },
       {
         "titel": "Mechelen 2026",
-        "groep": "Beloften en jongeren",
-        "tekst": "Ook de beloften en jongeren trokken in de zomer van 2026 op stage, naar Mechelen. En wat hebben ze zich geamuseerd! Er werd stevig getraind, in het water én op het droge, en iedereen kwam sterker terug dan hij vertrokken was.\n\nNa het harde werk was er ook tijd voor plezier: tijdens het lasershooten bleek dat onze zwemmers niet alleen snel zijn in het water, maar ook behoorlijk goed kunnen mikken. Een stage vol fun, teamgeest en nieuwe vriendschappen. Op naar de volgende!",
+        "groep": "Beloften, samen met de Kikkertjes (ZDKK)",
+        "tekst": "In de zomer van 2026 trokken onze beloften samen met de Kikkertjes van ZDKK op stage naar Mechelen. En wat hebben ze zich geamuseerd! Er werd stevig getraind, in het water én op het droge, en iedereen kwam sterker terug dan hij vertrokken was.\n\nNa het harde werk was er ook tijd voor plezier: tijdens het lasershooten bleek dat onze zwemmers niet alleen snel zijn in het water, maar ook behoorlijk goed kunnen mikken. Een stage vol fun, teamgeest en nieuwe vriendschappen. Op naar de volgende!",
         "fotos": [
           {
             "src": "fotos/mechelen.jpg",
-            "alt": "Groepsfoto van de beloften en jongeren op stage in Mechelen"
+            "alt": "Groepsfoto van de beloften en de Kikkertjes op stage in Mechelen"
           }
         ]
       },
       {
         "titel": "Lignano 2027",
-        "groep": "A-groep · paasvakantie",
-        "tekst": "Tijdens de paasvakantie trekt de A-groep op stage naar Lignano in Italië. Verdere praktische info volgt.",
+        "groep": "A-groep en tweedejaarsbeloften · paasvakantie",
+        "tekst": "Tijdens de paasvakantie trekken de A-groep en de tweedejaarsbeloften samen op stage naar Lignano in Italië. Verdere praktische info volgt.",
         "van": "2027-04-01",
         "tot": "2027-04-09"
       },
       {
-        "titel": "Stage beloften en jongeren 2027",
-        "groep": "Beloften en jongeren",
-        "tekst": "Ook in 2027 gaan de beloften en jongeren op stage. De bestemming maken we later bekend."
+        "titel": "Binnenlandse stage 2027",
+        "groep": "Eerstejaarsbeloften en jongeren",
+        "tekst": "De eerstejaarsbeloften en de jongeren trekken samen op binnenlandse stage. Periode en plaats worden nog bekendgemaakt."
       }
     ]
   },
@@ -424,7 +420,7 @@
         "tot": "2026-11-15"
       },
       {
-        "naam": "BK 17+ Klein Bad",
+        "naam": "BK Open Klein Bad",
         "plaats": "Sint-Niklaas",
         "van": "2026-12-18",
         "tot": "2026-12-20",
@@ -461,7 +457,7 @@
     "items": [
       {
         "naam": "Pleister- en gyprocwerken Jacob Bart",
-        "logo": "../../assets/sponsors/jacob-bart.svg"
+        "logo": "../../assets/sponsors/jacob-bart.png"
       },
       {
         "naam": "Comar Sport",
@@ -469,7 +465,8 @@
         "url": "https://www.comarsport.be"
       },
       {
-        "naam": "Speedo"
+        "naam": "Speedo",
+        "logo": "../../assets/sponsors/speedo.png"
       }
     ],
     "vrij": "Hier is nog een plaatsje vrij. Interesse? Laat het ons weten via cindy.moens@neptunusaalst.be"

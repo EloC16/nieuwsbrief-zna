@@ -40,7 +40,8 @@
       const alt = typeof f === "string" ? "" : f.alt || "";
       return `<img src="${esc(src)}" alt="${esc(alt)}" loading="lazy">`;
     }).join("");
-    return `<div class="fotos${lijst.length === 1 ? " een" : ""}">${items}</div>`;
+    const hint = lijst.length > 1 ? `<div class="fotos-hint">← swipe voor meer foto's · tik om te vergroten</div>` : "";
+    return `<div class="fotos${lijst.length === 1 ? " een" : ""}">${items}</div>${hint}`;
   }
 
   const todo = (t) => (t ? `<div class="todo">✏️ Nog te doen: ${esc(t)}</div>` : "");
@@ -149,9 +150,49 @@
         <a href="#" class="geen-print" onclick="window.print();return false;">Afdrukken / opslaan als PDF</a></footer>`;
   }
 
+  // Lightbox: tik op een foto om ze groot te bekijken, swipe of pijltjes voor de volgende
+  function lightbox() {
+    const lb = document.createElement("div");
+    lb.className = "lightbox";
+    lb.innerHTML = `<img alt=""><button class="sluit" aria-label="Sluiten">×</button>
+      <button class="vorige" aria-label="Vorige">‹</button><button class="volgende" aria-label="Volgende">›</button><div class="teller"></div>`;
+    document.body.appendChild(lb);
+    const img = lb.querySelector("img");
+    let reeks = [], i = 0, startX = null;
+    const toon = () => {
+      img.src = reeks[i].src; img.alt = reeks[i].alt;
+      lb.querySelector(".teller").textContent = reeks.length > 1 ? `${i + 1} / ${reeks.length}` : "";
+      lb.querySelectorAll(".vorige,.volgende").forEach((b) => (b.style.display = reeks.length > 1 ? "" : "none"));
+    };
+    const stap = (n) => { i = (i + n + reeks.length) % reeks.length; toon(); };
+    const sluit = () => { lb.classList.remove("open"); document.body.style.overflow = ""; };
+    document.addEventListener("click", (e) => {
+      const f = e.target.closest(".fotos img");
+      if (!f) return;
+      reeks = [...f.parentElement.querySelectorAll("img")];
+      i = reeks.indexOf(f); toon();
+      lb.classList.add("open"); document.body.style.overflow = "hidden";
+    });
+    lb.querySelector(".sluit").onclick = sluit;
+    lb.querySelector(".vorige").onclick = (e) => { e.stopPropagation(); stap(-1); };
+    lb.querySelector(".volgende").onclick = (e) => { e.stopPropagation(); stap(1); };
+    lb.addEventListener("click", (e) => { if (e.target === lb) sluit(); });
+    document.addEventListener("keydown", (e) => {
+      if (!lb.classList.contains("open")) return;
+      if (e.key === "Escape") sluit(); if (e.key === "ArrowLeft") stap(-1); if (e.key === "ArrowRight") stap(1);
+    });
+    lb.addEventListener("touchstart", (e) => (startX = e.touches[0].clientX), { passive: true });
+    lb.addEventListener("touchend", (e) => {
+      if (startX === null) return;
+      const dx = e.changedTouches[0].clientX - startX;
+      if (Math.abs(dx) > 50 && reeks.length > 1) stap(dx < 0 ? 1 : -1);
+      startX = null;
+    });
+  }
+
   const main = document.getElementById("nieuwsbrief");
   fetch(main.dataset.src || "data.json", { cache: "no-cache" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(render)
+    .then((d) => { render(d); lightbox(); })
     .catch((err) => { main.innerHTML = `<p style="padding:24px">Deze nieuwsbrief kon niet geladen worden (${esc(err.message)}).</p>`; });
 })();
