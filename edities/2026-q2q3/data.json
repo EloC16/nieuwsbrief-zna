@@ -6,9 +6,7 @@
   "redactie": "Eloïse & Cindy",
   "gepubliceerd": null,
   "concept": true,
-
   "intro": "",
-
   "wedstrijden": {
     "titel": "Wedstrijdnieuws",
     "intro": "Na de kampioenschappen in maart kwam stilaan onze eigen wedstrijd in zicht, en daarnaast deden we ook mee aan heel wat andere wedstrijden. Ook nu zetten we alles weer even op een rijtje.",
@@ -18,9 +16,18 @@
         "naam": "Limietenwedstrijd",
         "plaats": "Eeklo",
         "van": "2026-04-06",
-        "goud": ["Alicia (100SS)", "Bavo (100SS)"],
-        "zilver": ["Alicia (200SS)", "Arman (100SS)"],
-        "brons": ["Lily (200W)", "Mathias D (100SS)"]
+        "goud": [
+          "Alicia (100SS)",
+          "Bavo (100SS)"
+        ],
+        "zilver": [
+          "Alicia (200SS)",
+          "Arman (100SS)"
+        ],
+        "brons": [
+          "Lily (200W)",
+          "Mathias D (100SS)"
+        ]
       },
       {
         "naam": "Groeitraject dag 4",
@@ -34,17 +41,64 @@
         "naam": "Regionaal criterium dag 5",
         "plaats": "Eeklo",
         "van": "2026-04-19",
-        "goud": ["Nils (100VS)", "Lily (400W)", "Geike (200SS)", "Jinne (200SS)", "Nan (100VS)", "Seppe (200SS)", "Brecht (50VL)", "Nand W (50VL)"],
-        "zilver": ["Nils (200SS)", "Lotte B (400W)", "Xibe (400W)", "Liesl (50VL)", "Alicia (400W)", "Bavo (100VS, 50VL)", "Tymon (400W)"],
-        "brons": ["Mathias B (200SS)", "Ella (100VS)", "Alicia (50VL)", "Geike (400W)", "Jinne (50VL)", "Mila (100VS)", "Brecht (100VS)"]
+        "goud": [
+          "Nils (100VS)",
+          "Lily (400W)",
+          "Geike (200SS)",
+          "Jinne (200SS)",
+          "Nan (100VS)",
+          "Seppe (200SS)",
+          "Brecht (50VL)",
+          "Nand W (50VL)"
+        ],
+        "zilver": [
+          "Nils (200SS)",
+          "Lotte B (400W)",
+          "Xibe (400W)",
+          "Liesl (50VL)",
+          "Alicia (400W)",
+          "Bavo (100VS, 50VL)",
+          "Tymon (400W)"
+        ],
+        "brons": [
+          "Mathias B (200SS)",
+          "Ella (100VS)",
+          "Alicia (50VL)",
+          "Geike (400W)",
+          "Jinne (50VL)",
+          "Mila (100VS)",
+          "Brecht (100VS)"
+        ]
       },
       {
         "naam": "Memorial Herman Braeckman",
         "plaats": "Aalst",
         "van": "2026-04-26",
         "finales": {
-          "A-finale": ["Xibe (50VL, 4e)", "Emelie (50R, 2e)", "Gaetan (50R, 5e)", "Tymon (50R, 5e)", "Alicia (50SS, 4e)", "Lily (50SS, 6e)", "Mathias D (50SS, 5e)", "Nand W (50SS, 8e)", "Emelie (50VS, 1e)", "Gaetan (50VS, 4e)"],
-          "B-finale": ["Lily (50VL, 4e)", "Nina (50VL, 6e)", "Artuur (50VL, 8e)", "Elano (50R, 6e)", "Bavo (50SS, 1e)", "Arman (50SS, 3e)", "Rune (50SS, 8e)", "Geike (50VS, 2e)", "Lotte (50VS, 5e)", "Nina (50VS, 7e)"]
+          "A-finale": [
+            "Xibe (50VL, 4e)",
+            "Emelie (50R, 2e)",
+            "Gaetan (50R, 5e)",
+            "Tymon (50R, 6e)",
+            "Alicia (50SS, 4e)",
+            "Lily (50SS, 6e)",
+            "Mathias D (50SS, 5e)",
+            "Nand W (50SS, 8e)",
+            "Emelie (50VS, 1e)",
+            "Gaetan (50VS, 4e)"
+          ],
+          "B-finale": [
+            "Lily (50VL, 4e)",
+            "Nina (50VL, 6e)",
+            "Artuur (50VL, 8e)",
+            "Elano (50R, 6e)",
+            "Bavo (50SS, 1e)",
+            "Arman (50SS, 3e)",
+            "Rune (50SS, 8e)",
+            "Geike (50VS, 2e)",
+            "Lotte B (50VS, 5e)",
+            "Nina (50VS, 7e)"
+          ]
         }
       },
       {
@@ -54,7 +108,13 @@
         "tot": "2026-05-17",
         "tekst": "Een positieve ervaring voor Xibe, Emelie en Alicia op dit BK Open. Maar... het was Noah die met alle aandacht ging lopen (terecht!).",
         "records": [
-          { "label": "Belgisch record", "wie": "Noah", "wat": "200SS (lange baan)", "tijd": "2:10.15", "extra": "+ kwalificatie voor het EK in Parijs" }
+          {
+            "label": "Belgisch record",
+            "wie": "Noah",
+            "wat": "200SS (lange baan)",
+            "tijd": "2:10.15",
+            "extra": "+ kwalificatie voor het EK in Parijs"
+          }
         ],
         "fotos": [],
         "todo": "de 'Belgian record'-afbeelding van Noah in 02_fotos zetten"
@@ -63,32 +123,103 @@
         "naam": "Limietenwedstrijd",
         "plaats": "Sint-Niklaas",
         "van": "2026-05-24",
-        "goud": ["Lily (200SS)"],
-        "zilver": ["Lotte B (200SS)", "Diede (200W)"]
+        "goud": [
+          "Lily (200SS)"
+        ],
+        "zilver": [
+          "Lotte B (200SS)",
+          "Diede (200W)"
+        ]
       },
       {
         "naam": "Regionaal Criterium Finale",
         "plaats": "Temse",
         "van": "2026-05-31",
-        "goud": ["Nils (100VS, 100R)", "Mathias B (100SS)", "Emelie (100VS, 100R)", "Alicia (100R)", "Nan (100VL)", "Seppe (100VS, 100VL, 200W)", "Bavo (100SS, 100W)"],
-        "zilver": ["Adam (200W)", "Lotte B (100R)", "Liesl (100VL, 100W)", "Lily (100SS)", "Ella (100VS)", "Diede (100SS)", "Arman (100SS)", "Bavo (100VS)"],
-        "brons": ["Adam (100SS)", "Lotte B (100SS)", "Thor (100SS)", "Arman (200W)", "Mila (100VS)", "Nan (100VS, 100R)", "Tymon (100R)"]
+        "goud": [
+          "Nils (100R, 100VS)",
+          "Mathias B (100SS)",
+          "Emelie (100R, 100VS)",
+          "Alicia (100R)",
+          "Nan (100VL)",
+          "Seppe (200W, 100VL, 100VS)",
+          "Bavo (200W, 100SS)"
+        ],
+        "zilver": [
+          "Adam (200W)",
+          "Mathias B (100VL)",
+          "Lotte B (100R)",
+          "Liesl (200W, 100VL)",
+          "Lily (100SS)",
+          "Ella (100VS)",
+          "Diede (100SS)",
+          "Arman (100SS)",
+          "Bavo (100VS)"
+        ],
+        "brons": [
+          "Adam (100SS)",
+          "Lotte B (100SS)",
+          "Thor (100SS)",
+          "Arman (200W)",
+          "Mila (100VS)",
+          "Nan (100R, 100VS)",
+          "Tymon (100R)"
+        ]
       },
       {
         "naam": "Zomerwedstrijd Neptunus Aalst",
         "plaats": "Aalst",
         "van": "2026-06-27",
-        "goud": ["Xibe (100VL, 200W)", "Noah (200SS)", "Lily (200SS)", "Emelie (50VL)", "Alicia (100SS)", "Tymon (400W)"],
-        "zilver": ["Lotte B (100R)", "Noah (100SS)", "Emelie (200W)", "Alicia (400W)", "Elano (50R)", "Kato (50SS)", "Jinne (200SS)", "Emma (100VS)", "Bavo (200SS)"],
-        "brons": ["Lotte B (200SS)", "Rune (200R)", "Thor (400W)", "Lily (50VS)", "Emelie (100SS)", "Elano (100R)", "Lotte VN (50SS)", "Nand W (50SS)"],
-        "todo": "medailles controleren: deze lijst stond in Canva ook bij BK Estafette en Herfstmeeting"
+        "goud": [
+          "Xibe (100VL, 200W)",
+          "Noah (200SS)",
+          "Lily (200SS)",
+          "Emelie (50VL)",
+          "Alicia (100SS)",
+          "Tymon (400W)"
+        ],
+        "zilver": [
+          "Lotte B (100R)",
+          "Noah (100SS)",
+          "Emelie (200W)",
+          "Alicia (400W)",
+          "Elano (50R)",
+          "Kato (50SS)",
+          "Jinne (200SS)",
+          "Emma T (100VS)",
+          "Bavo (200SS)"
+        ],
+        "brons": [
+          "Lotte B (200SS)",
+          "Rune (200R)",
+          "Thor (400W)",
+          "Lily (50VS)",
+          "Emelie (100SS)",
+          "Elano (100R)",
+          "Lotte VN (50SS)",
+          "Nand W (50SS)"
+        ]
       },
-      { "tussentitel": "Zomerkampioenschappen" },
       {
-        "naam": "Zomerkampioenschappen",
-        "plaats": "",
+        "tussentitel": "Zomerkampioenschappen"
+      },
+      {
+        "naam": "Vlaams Zomercriterium (50m)",
+        "plaats": "Antwerpen",
+        "van": "2026-07-10",
+        "tot": "2026-07-12",
+        "todo": "resultaten nog in te vullen (livetiming.zwemfed.be/VZC2026: results.lxf of uitslagen in Drive zetten)"
+      },
+      {
+        "naam": "BK categorieën – weekend 1",
+        "plaats": "Antwerpen",
         "van": null,
-        "todo": "welke kampioenschappen (VJK/BK zomer?), data en resultaten aanvullen"
+        "todo": "datum en resultaten aanvullen (uitslag van swimrankings in Drive zetten)"
+      },
+      {
+        "naam": "BK categorieën – weekend 2",
+        "plaats": "Antwerpen",
+        "van": null,
+        "todo": "datum en resultaten aanvullen (uitslag van swimrankings in Drive zetten)"
       },
       {
         "naam": "BK Estafette",
@@ -100,11 +231,36 @@
         "naam": "Herfstmeeting",
         "plaats": "Lokeren",
         "van": "2026-09-27",
-        "todo": "resultaten nog in te vullen (uitslagen-PDF in 01_uitslagen-pdf)"
+        "goud": [
+          "Viktor (50VL)",
+          "Lyam (200SS)",
+          "Maury (50VS)",
+          "Rémi (100SS)",
+          "Kato (200SS)"
+        ],
+        "zilver": [
+          "Nylo (50VS)",
+          "Lyam (100SS)",
+          "Mathias D (100SS)",
+          "Maury (50SS)",
+          "Tinne (50VL)",
+          "Mohamed-Amine (200SS)",
+          "Kato (50SS)",
+          "Leeron (50SS)",
+          "Mila (200W)"
+        ],
+        "brons": [
+          "Adam (50SS, 100VS)",
+          "Chahd (200R)",
+          "Viktor (200VS, 50VS)",
+          "Leon (50SS)",
+          "Wail (100R)",
+          "Maher (100SS)",
+          "Feije (200SS)"
+        ]
       }
     ]
   },
-
   "stages": {
     "titel": "Stages",
     "items": [
@@ -123,21 +279,56 @@
       }
     ]
   },
-
   "kalender": {
     "titel": "Wedstrijdkalender Q4 2026",
     "items": [
-      { "naam": "Provinciaal Kampioenschap Klein Bad", "plaats": "Eeklo", "van": "2026-10-03", "tot": "2026-10-04" },
-      { "naam": "Memorial Antheunis", "plaats": "Gent", "van": "2026-10-17", "tot": "2026-10-18" },
-      { "naam": "Vlaams Jeugd Kampioenschap Klein Bad", "plaats": "Diksmuide", "van": "2026-10-31", "tot": "2026-11-02", "details": "Selectie op basis van limieten" },
-      { "naam": "Open Flanders Klein Bad", "plaats": "Mol", "van": "2026-11-06", "tot": "2026-11-08", "details": "Selectie op basis van limieten" },
-      { "naam": "Speedocup", "plaats": "Leuven", "van": "2026-11-14", "tot": "2026-11-15" },
-      { "naam": "BK 17+ Klein Bad", "plaats": "Locatie nog te bepalen", "van": "2026-12-18", "tot": "2026-12-20", "details": "Selectie op basis van limieten" },
-      { "naam": "Allerlaatste kans", "plaats": "Sint-Niklaas", "van": "2026-12-27" }
+      {
+        "naam": "Provinciaal Kampioenschap Klein Bad",
+        "plaats": "Eeklo",
+        "van": "2026-10-03",
+        "tot": "2026-10-04"
+      },
+      {
+        "naam": "Memorial Antheunis",
+        "plaats": "Gent",
+        "van": "2026-10-17",
+        "tot": "2026-10-18"
+      },
+      {
+        "naam": "Vlaams Jeugd Kampioenschap Klein Bad",
+        "plaats": "Diksmuide",
+        "van": "2026-10-31",
+        "tot": "2026-11-02",
+        "details": "Selectie op basis van limieten"
+      },
+      {
+        "naam": "Open Flanders Klein Bad",
+        "plaats": "Mol",
+        "van": "2026-11-06",
+        "tot": "2026-11-08",
+        "details": "Selectie op basis van limieten"
+      },
+      {
+        "naam": "Speedocup",
+        "plaats": "Leuven",
+        "van": "2026-11-14",
+        "tot": "2026-11-15"
+      },
+      {
+        "naam": "BK 17+ Klein Bad",
+        "plaats": "Locatie nog te bepalen",
+        "van": "2026-12-18",
+        "tot": "2026-12-20",
+        "details": "Selectie op basis van limieten"
+      },
+      {
+        "naam": "Allerlaatste kans",
+        "plaats": "Sint-Niklaas",
+        "van": "2026-12-27"
+      }
     ],
     "todo": "de meeste wedstrijden zijn bij publicatie al voorbij: vervangen door de kalender van Q1 2027?"
   },
-
   "extra": {
     "titel": "Extra",
     "items": [
@@ -163,13 +354,19 @@
       }
     ]
   },
-
   "sponsors": {
     "titel": "Dank aan onze sponsors",
     "items": [
-      { "naam": "Pleister- en gyprocwerken Jacob Bart" },
-      { "naam": "Comar Sport", "url": "https://www.comarsport.be" },
-      { "naam": "Speedo" }
+      {
+        "naam": "Pleister- en gyprocwerken Jacob Bart"
+      },
+      {
+        "naam": "Comar Sport",
+        "url": "https://www.comarsport.be"
+      },
+      {
+        "naam": "Speedo"
+      }
     ],
     "vrij": "Hier is nog een plaatsje vrij. Interesse? Laat het ons weten via cindy.moens@neptunusaalst.be"
   }

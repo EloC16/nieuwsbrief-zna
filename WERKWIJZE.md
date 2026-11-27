@@ -29,6 +29,7 @@ Vaste zaken (logo, sponsorlogo's, clubrecords) staan in `_vast/`.
 1. **Claude vragen** de editie op te stellen ("maak de nieuwsbrief van Q1 2027"). Claude:
    - maakt de editiemap aan (`tools/nieuwe_editie.py`)
    - haalt uit de uitslagen-PDF's alle podiumplaatsen en finaleplaatsen van Neptunus Aalst
+     (`tools/uitslagen.py`, werkt op Splash Meet Manager-PDF's; zwemmers herkend aan licentie ZNA/…)
    - vergelijkt de tijden met de clubrecords
    - zet foto's verkleind in de editie en teksten op hun plaats
    - draait `tools/controle.py` en zet ontbrekende zaken als gele "nog te doen"-blokken
