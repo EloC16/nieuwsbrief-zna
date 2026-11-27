@@ -1,0 +1,196 @@
+/* Nieuwsbrief Competitiezwemmen Neptunus Aalst — vaste huisstijl */
+:root {
+  --blauw: #0b47a8;
+  --blauw-donker: #07306f;
+  --lichtblauw: #a9d8f5;
+  --water: #e8f4fc;
+  --goud: #f2b62b;
+  --zilver: #a9b3bd;
+  --brons: #c47d3c;
+  --papier: #f6f5f2;
+  --tekst: #1b2a41;
+  --zacht: #5b6b80;
+  --radius: 16px;
+  --schaduw: 0 2px 10px rgba(7, 48, 111, .08);
+  --font: "Montserrat", "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: var(--font);
+  color: var(--tekst);
+  background: var(--papier);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+img { max-width: 100%; display: block; }
+a { color: var(--blauw); }
+
+/* ---------- Kop ---------- */
+.hero {
+  background: linear-gradient(160deg, var(--blauw) 0%, var(--blauw-donker) 100%);
+  color: #fff;
+  padding: 48px 20px 64px;
+  position: relative;
+  overflow: hidden;
+}
+.hero::after { /* golfje */
+  content: "";
+  position: absolute; left: 0; right: 0; bottom: -1px; height: 36px;
+  background: var(--papier);
+  -webkit-mask: radial-gradient(40px 20px at 50% 0, transparent 98%, #000) 0 0 / 80px 36px repeat-x;
+          mask: radial-gradient(40px 20px at 50% 0, transparent 98%, #000) 0 0 / 80px 36px repeat-x;
+}
+.hero-inner { max-width: 860px; margin: 0 auto; }
+.hero .club { letter-spacing: .14em; text-transform: uppercase; font-size: .78rem; font-weight: 700; color: var(--lichtblauw); }
+.hero h1 { font-size: clamp(2rem, 7vw, 3.2rem); line-height: 1.05; margin: 10px 0 6px; font-weight: 800; }
+.hero h1 .accent { color: var(--goud); }
+.hero .ondertitel { font-size: 1.1rem; opacity: .92; margin: 0 0 18px; }
+.hero .meta { font-size: .85rem; opacity: .8; }
+.drietand { position: absolute; right: 24px; top: 28px; width: 64px; opacity: .9; }
+@media (max-width: 640px) { .drietand { display: none; } }
+
+.concept-banner {
+  background: #fff3cd; color: #7a5600; border-bottom: 2px solid var(--goud);
+  padding: 10px 16px; text-align: center; font-weight: 600; font-size: .9rem;
+}
+
+/* ---------- Navigatie ---------- */
+nav.inhoud {
+  position: sticky; top: 0; z-index: 10;
+  background: rgba(246, 245, 242, .95); backdrop-filter: blur(6px);
+  border-bottom: 1px solid #e3e1dc;
+}
+nav.inhoud ul {
+  list-style: none; margin: 0 auto; padding: 10px 16px; max-width: 860px;
+  display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none;
+}
+nav.inhoud a {
+  display: block; white-space: nowrap; text-decoration: none; font-weight: 600; font-size: .85rem;
+  color: var(--blauw); background: #fff; border: 1px solid #d9e3f2; padding: 6px 12px; border-radius: 999px;
+}
+
+/* ---------- Secties ---------- */
+main { max-width: 860px; margin: 0 auto; padding: 8px 16px 48px; }
+section.blok { margin-top: 40px; scroll-margin-top: 64px; }
+h2.sectietitel {
+  font-size: 1.6rem; font-weight: 800; color: var(--blauw); margin: 0 0 6px;
+  display: flex; align-items: center; gap: 10px;
+}
+h2.sectietitel::before { content: ""; width: 8px; height: 28px; border-radius: 4px; background: var(--goud); }
+.sectie-intro { color: var(--zacht); margin: 0 0 18px; }
+.voetnoot { font-size: .8rem; color: var(--zacht); font-style: italic; }
+
+.kaart {
+  background: #fff; border-radius: var(--radius); box-shadow: var(--schaduw);
+  padding: 20px; margin-bottom: 16px; break-inside: avoid;
+}
+.kaart-kop { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+.kaart h3 { margin: 0; font-size: 1.15rem; color: var(--blauw-donker); }
+.kaart .plaats { color: var(--zacht); font-size: .9rem; }
+.datum-chip {
+  background: var(--water); color: var(--blauw); font-weight: 700; font-size: .8rem;
+  padding: 4px 10px; border-radius: 8px; white-space: nowrap;
+}
+.kaart p { margin: 12px 0 0; overflow-wrap: anywhere; }
+.sponsor p { margin: 0; }
+
+/* Medailles */
+.medailles { margin-top: 14px; display: grid; gap: 10px; }
+.medaille-rij { display: grid; grid-template-columns: 34px 1fr; gap: 10px; align-items: start; }
+.medaille {
+  width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center;
+  font-weight: 800; font-size: .85rem; color: #fff; box-shadow: inset 0 -3px 0 rgba(0,0,0,.15);
+}
+.medaille.goud { background: var(--goud); }
+.medaille.zilver { background: var(--zilver); }
+.medaille.brons { background: var(--brons); }
+.namen { display: flex; flex-wrap: wrap; gap: 6px; padding-top: 2px; }
+.naam {
+  background: var(--papier); border-radius: 6px; padding: 2px 8px; font-size: .88rem;
+}
+.naam small { color: var(--zacht); }
+
+/* Finales */
+.finales { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 14px; }
+.finale h4 { margin: 0 0 6px; font-size: .9rem; color: var(--blauw); text-transform: uppercase; letter-spacing: .06em; }
+.finale ul { list-style: none; padding: 0; margin: 0; font-size: .88rem; }
+.finale li { padding: 3px 0; border-bottom: 1px dashed #e6e6e6; }
+@media (max-width: 520px) { .finales { grid-template-columns: 1fr; } }
+
+/* Records */
+.record {
+  margin-top: 14px; border: 2px solid var(--goud); border-radius: 12px; padding: 12px 14px;
+  background: linear-gradient(90deg, #fff8e6, #fff);
+}
+.record .label { font-size: .72rem; font-weight: 800; letter-spacing: .1em; color: #a06d00; text-transform: uppercase; }
+.record .wie { font-weight: 700; font-size: 1.05rem; color: var(--blauw-donker); }
+.record .tijd { font-weight: 800; color: #c0262d; }
+
+/* Foto's */
+.fotos { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 8px; margin-top: 14px; }
+.fotos img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; }
+.fotos.een { grid-template-columns: 1fr; }
+.fotos.een img { aspect-ratio: auto; }
+
+.todo {
+  margin-top: 12px; padding: 10px 12px; border-radius: 10px; font-size: .85rem;
+  background: #fff3cd; color: #7a5600; border: 1px dashed var(--goud);
+}
+
+/* Tussentitel (bv. Zomerkampioenschappen) */
+.tussentitel { margin: 28px 0 12px; font-size: 1.05rem; font-weight: 800; color: var(--goud); text-transform: uppercase; letter-spacing: .08em; }
+
+/* Kalender */
+.kalender { list-style: none; padding: 0; margin: 0; border-left: 3px solid var(--blauw); }
+.kalender li { position: relative; padding: 0 0 18px 20px; }
+.kalender li::before {
+  content: ""; position: absolute; left: -8px; top: 5px; width: 13px; height: 13px; border-radius: 50%;
+  background: #fff; border: 3px solid var(--blauw);
+}
+.kalender .wanneer { font-weight: 700; color: var(--blauw); font-size: .9rem; }
+.kalender .wat { font-weight: 700; }
+.kalender .details { color: var(--zacht); font-size: .88rem; }
+.kalender li.voorbij { opacity: .55; }
+
+/* Extra / save the date */
+.extra-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
+.extra-grid .kaart { margin: 0; border-top: 5px solid var(--goud); }
+.extra-grid .kaart.save-the-date { border-top-color: var(--blauw); }
+.tag { display: inline-block; font-size: .7rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--goud); margin-bottom: 6px; }
+.knop {
+  display: inline-block; margin-top: 12px; background: var(--blauw); color: #fff; text-decoration: none;
+  padding: 8px 14px; border-radius: 999px; font-weight: 700; font-size: .85rem;
+}
+
+/* Sponsors */
+.sponsors { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.sponsor {
+  background: #fff; border-radius: 12px; box-shadow: var(--schaduw); padding: 14px; min-height: 90px;
+  display: grid; place-items: center; text-align: center; font-weight: 700; color: var(--blauw-donker); text-decoration: none;
+}
+.sponsor img { max-height: 70px; width: auto; }
+.sponsor.vrij { grid-column: 1 / -1; overflow-wrap: anywhere; border: 2px dashed var(--lichtblauw); box-shadow: none; background: transparent; color: var(--zacht); font-weight: 600; font-size: .85rem; }
+
+footer { text-align: center; color: var(--zacht); font-size: .8rem; padding: 24px 16px 40px; }
+footer a { color: var(--zacht); }
+
+/* ---------- Archief ---------- */
+.archief-lijst { display: grid; gap: 12px; }
+.archief-lijst a.kaart { display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 0; }
+.archief-lijst .pijl { font-size: 1.4rem; color: var(--goud); }
+
+/* ---------- Print / PDF ---------- */
+@media print {
+  @page { size: A4; margin: 14mm; }
+  body { background: #fff; font-size: 10.5pt; }
+  nav.inhoud, .concept-banner, .geen-print { display: none !important; }
+  .hero { padding: 24px 20px 40px; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .kaart, .record, .medaille, .datum-chip, .naam { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .kaart { box-shadow: none; border: 1px solid #ddd; }
+  section.blok { margin-top: 18px; }
+  h2.sectietitel { break-after: avoid; }
+  .todo { display: none; }
+}

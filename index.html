@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nieuwsbrieven – Competitiezwemmen Neptunus Aalst</title>
+<meta name="description" content="Alle nieuwsbrieven van de competitiezwemmers van Neptunus Aalst.">
+<meta property="og:title" content="Nieuwsbrieven – Competitiezwemmen Neptunus Aalst">
+<meta property="og:description" content="Alle edities van de nieuwsbrief van de competitiezwemmers.">
+<meta property="og:image" content="https://eloc16.github.io/nieuwsbrief-zna/assets/deelbeeld.png">
+<link rel="icon" href="assets/favicon.svg">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero"><div class="hero-inner">
+  <div class="club">Competitiezwemmen Neptunus Aalst</div>
+  <h1>Nieuws<span class="accent">brief</span></h1>
+  <p class="ondertitel">Elk kwartaal: onze wedstrijden, medailles, stages en wat er op de planning staat.</p>
+</div></header>
+<main>
+  <section class="blok">
+    <h2 class="sectietitel">Alle edities</h2>
+    <div class="archief-lijst" id="archief"><p>Laden…</p></div>
+  </section>
+</main>
+<footer>Competitiezwemmen Neptunus Aalst · <a href="https://www.neptunusaalst.be" target="_blank" rel="noopener">neptunusaalst.be</a></footer>
+<script>
+fetch("edities.json", { cache: "no-cache" }).then(r => r.json()).then(lijst => {
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  document.getElementById("archief").innerHTML = lijst.map((e, i) =>
+    `<a class="kaart" href="edities/${esc(e.code)}/"><div><div class="tag">${i === 0 ? "Nieuwste editie" : "Editie"}</div>
+     <h3>Nieuwsbrief ${esc(e.periode)}</h3></div><span class="pijl">→</span></a>`).join("");
+});
+</script>
+</body>
+</html>
