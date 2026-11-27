@@ -240,7 +240,8 @@
         "zilver": [
           "Emelie (100R, 200R)"
         ],
-        "tekst": "Ook de estafetteploegen deden goed mee: de meisjes werden 4e op de 4x100m vrije slag."
+        "tekst": "Naast de medailles van Emelie waren er nog heel wat top 8-plaatsen: Nils werd 4e op 100m rugslag en 8e op 100m vlinderslag, Bavo 5e op 200m schoolslag en 7e op 100m schoolslag, Lily 5e op 100m schoolslag en 6e op 200m schoolslag, Emelie 5e op 200m vrije slag en Alicia 6e op 100m schoolslag en 7e op 200m schoolslag. De meisjesestafette werd 4e op de 4x100m vrije slag.",
+        "todo": "tekst nalezen"
       },
       {
         "naam": "BK categorieën – weekend 2",
@@ -248,13 +249,24 @@
         "van": "2026-07-24",
         "todo": "tekst nalezen/aanvullen",
         "tot": "2026-07-26",
-        "tekst": "Geen medailles dit weekend, wel mooie plaatsen: Xibe werd 7e op de 200m vrije slag en de 200m wisselslag, Tymon 6e op de 100m vrije slag en de 50m vlinderslag."
+        "tekst": "Geen medailles dit weekend, wel mooie top 8-plaatsen: Xibe werd 7e op 200m vrije slag en 200m wisselslag, Tymon 6e op 100m vrije slag en 50m vlinderslag en 8e op 50m vrije slag, en Gaetan 8e op 50m schoolslag."
       },
       {
         "naam": "BK Estafette",
         "plaats": "Aarschot",
         "van": "2026-09-19",
-        "todo": "resultaten nog in te vullen (uitslagen-PDF in 01_uitslagen-pdf)"
+        "zilver": [
+          "4x50SS jongens (Arman, Bavo, Thor, Mathias B)",
+          "4x100VS meisjes (Geike, Nina, Lily, Emelie)",
+          "4x50SS meisjes (Lily, Lotte VN, Emelie, Alicia)",
+          "4x50VL meisjes (Lily, Nina, Geike, Emelie)",
+          "4x100W meisjes (Emelie, Alicia, Lily, Nina)"
+        ],
+        "brons": [
+          "4x100VS jongens (Nils, Bavo, Mathias B, Seppe)",
+          "4x100R jongens (Nils, Mathias B, Arman, Seppe)"
+        ],
+        "tekst": "Een sterk estafettetoernooi: 5× zilver en 2× brons voor onze ploegen!"
       },
       {
         "naam": "Herfstmeeting",
