@@ -138,7 +138,7 @@
         <div class="club">Competitiezwemmen Neptunus Aalst</div>
         <h1>${esc(d.titel)} <span class="accent">${esc(d.periode)}</span></h1>
         ${d.ondertitel ? `<p class="ondertitel">${esc(d.ondertitel)}</p>` : ""}
-        <div class="meta">${d.redactie ? "Redactie: " + esc(d.redactie) : ""}${gepubliceerd ? " · " + gepubliceerd.getDate() + " " + MAANDEN_LANG[gepubliceerd.getMonth()] + " " + gepubliceerd.getFullYear() : ""}</div>
+        <div class="meta">${[d.redactie ? "Redactie: " + esc(d.redactie) : "", gepubliceerd ? gepubliceerd.getDate() + " " + MAANDEN_LANG[gepubliceerd.getMonth()] + " " + gepubliceerd.getFullYear() : ""].filter(Boolean).join(" · ")}</div>
       </div>
       <svg class="drietand" viewBox="0 0 64 96" aria-hidden="true"><g fill="none" stroke="#f2b62b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
         <path d="M32 92V20"/><path d="M12 8v20a20 20 0 0 0 40 0V8"/><path d="M32 4l-6 12h12z" fill="#f2b62b"/><path d="M12 4l-5 10h10zM52 4l-5 10h10z" fill="#f2b62b"/><path d="M24 70h16"/></g></svg>
