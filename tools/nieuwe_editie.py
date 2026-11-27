@@ -42,7 +42,7 @@ LEEG = {
     "titel": "Nieuwsbrief",
     "periode": "",
     "ondertitel": "",
-    "redactie": "Eloïse & Cindy",
+    "redactie": "",
     "gepubliceerd": None,
     "concept": True,
     "intro": "",
