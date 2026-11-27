@@ -361,26 +361,25 @@
             "src": "fotos/ptuj-6.jpg",
             "alt": "Karaoke-avond op stage"
           }
-        ],
-        "todo": "data van de stage toevoegen"
+        ]
       },
       {
         "titel": "Mechelen 2026",
         "groep": "Beloften en jongeren",
-        "tekst": "Ook de beloften en jongeren trokken in de zomer van 2026 op stage, naar Mechelen.",
+        "tekst": "Ook de beloften en jongeren trokken in de zomer van 2026 op stage, naar Mechelen. En wat hebben ze zich geamuseerd! Er werd stevig getraind, in het water én op het droge, en iedereen kwam sterker terug dan hij vertrokken was.\n\nNa het harde werk was er ook tijd voor plezier: tijdens het lasershooten bleek dat onze zwemmers niet alleen snel zijn in het water, maar ook behoorlijk goed kunnen mikken. Een stage vol fun, teamgeest en nieuwe vriendschappen. Op naar de volgende!",
         "fotos": [
           {
             "src": "fotos/mechelen.jpg",
             "alt": "Groepsfoto van de beloften en jongeren op stage in Mechelen"
           }
-        ],
-        "todo": "eventueel een kort verslagje"
+        ]
       },
       {
         "titel": "Lignano 2027",
-        "groep": "Paasvakantie",
-        "tekst": "",
-        "todo": "korte aankondiging schrijven (wie, wanneer, praktisch)"
+        "groep": "A-groep · paasvakantie",
+        "tekst": "Tijdens de paasvakantie trekt de A-groep op stage naar Lignano in Italië. Verdere praktische info volgt.",
+        "van": "2027-04-01",
+        "tot": "2027-04-09"
       },
       {
         "titel": "Stage beloften en jongeren 2027",
@@ -439,8 +438,7 @@
         "gewijzigd": true,
         "details": "Vervangt de eerder aangekondigde 'Allerlaatste kans' in Sint-Niklaas"
       }
-    ],
-    "todo": "de meeste wedstrijden zijn bij publicatie al voorbij: vervangen door de kalender van Q1 2027?"
+    ]
   },
   "extra": {
     "titel": "Extra",
@@ -463,10 +461,12 @@
     "titel": "Dank aan onze sponsors",
     "items": [
       {
-        "naam": "Pleister- en gyprocwerken Jacob Bart"
+        "naam": "Pleister- en gyprocwerken Jacob Bart",
+        "logo": "../../assets/sponsors/jacob-bart.svg"
       },
       {
         "naam": "Comar Sport",
+        "logo": "../../assets/sponsors/comar-sport.png",
         "url": "https://www.comarsport.be"
       },
       {
