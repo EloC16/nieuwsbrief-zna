@@ -4,8 +4,8 @@
   "periode": "Q2 + Q3 2026",
   "ondertitel": "Over wedstrijden, stages en het seizoenseinde",
   "redactie": "",
-  "gepubliceerd": null,
-  "concept": true,
+  "gepubliceerd": "2026-11-27",
+  "concept": false,
   "intro": "",
   "wedstrijden": {
     "titel": "Wedstrijdnieuws",
@@ -248,7 +248,6 @@
           "Emelie (100R, 200R)"
         ],
         "tekst": "Wat een prestatie van Emelie: zij kroonde zich tot **Belgisch kampioen op de 100m vrije slag**! Met 59.06 dook ze bovendien onder haar persoonlijk record, en daar kwamen nog twee zilveren medailles bij op de 100m en 200m rugslag. Ook Nils pakte een medaille, brons op de 100m rugslag.\n\nDaarnaast waren er nog heel wat top 8-plaatsen: Nils werd 8e op 100m vlinderslag, Bavo 5e op 200m schoolslag en 7e op 100m schoolslag, Lily 5e op 100m schoolslag en 6e op 200m schoolslag, Emelie 5e op 200m vrije slag en Alicia 6e op 100m schoolslag en 7e op 200m schoolslag. De meisjesestafette werd 4e op de 4x100m vrije slag.",
-        "todo": "tekst nalezen",
         "brons": [
           "Nils (100R)"
         ]
@@ -257,7 +256,6 @@
         "naam": "BK categorieën – weekend 2",
         "plaats": "Antwerpen",
         "van": "2026-07-24",
-        "todo": "tekst nalezen/aanvullen",
         "tot": "2026-07-26",
         "tekst": "Geen medailles dit weekend, wel mooie top 8-plaatsen: Xibe werd 7e op 200m vrije slag en 200m wisselslag, Tymon 6e op 100m vrije slag en 50m vlinderslag en 8e op 50m vrije slag, en Gaetan 8e op 50m schoolslag."
       },
@@ -271,8 +269,7 @@
             "src": "fotos/ek-parijs.jpg",
             "alt": "De trainers op citytrip in Parijs voor het EK"
           }
-        ],
-        "todo": "eventueel Noah's tijd/plaats op het EK vermelden"
+        ]
       },
       {
         "naam": "BK Estafette",
