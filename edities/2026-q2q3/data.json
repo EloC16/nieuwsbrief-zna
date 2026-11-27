@@ -117,7 +117,16 @@
           }
         ],
         "fotos": [],
-        "todo": "de 'Belgian record'-afbeelding van Noah in 02_fotos zetten"
+        "todo": "de 'Belgian record'-afbeelding van Noah in 02_fotos zetten",
+        "zilver": [
+          "Noah (200SS)"
+        ],
+        "finales": {
+          "A-finale": [
+            "Noah (200SS, 2e)",
+            "Noah (100SS, 4e)"
+          ]
+        }
       },
       {
         "naam": "Limietenwedstrijd",
@@ -207,19 +216,39 @@
         "plaats": "Antwerpen",
         "van": "2026-07-10",
         "tot": "2026-07-12",
-        "todo": "resultaten nog in te vullen (livetiming.zwemfed.be/VZC2026: results.lxf of uitslagen in Drive zetten)"
+        "goud": [
+          "Kato (200SS)",
+          "Lotte VN (50SS)"
+        ],
+        "zilver": [
+          "Mathias B (100VS)",
+          "Jinne (100SS, 200SS)",
+          "Lotte VN (100SS)"
+        ],
+        "brons": [
+          "Mathias B (100VL)"
+        ]
       },
       {
         "naam": "BK categorieën – weekend 1",
         "plaats": "Antwerpen",
-        "van": null,
-        "todo": "datum en resultaten aanvullen (uitslag van swimrankings in Drive zetten)"
+        "van": "2026-07-17",
+        "tot": "2026-07-19",
+        "goud": [
+          "Emelie (100VS)"
+        ],
+        "zilver": [
+          "Emelie (100R, 200R)"
+        ],
+        "tekst": "Ook de estafetteploegen deden goed mee: de meisjes werden 4e op de 4x100m vrije slag."
       },
       {
         "naam": "BK categorieën – weekend 2",
         "plaats": "Antwerpen",
-        "van": null,
-        "todo": "datum en resultaten aanvullen (uitslag van swimrankings in Drive zetten)"
+        "van": "2026-07-24",
+        "todo": "tekst nalezen/aanvullen",
+        "tot": "2026-07-26",
+        "tekst": "Geen medailles dit weekend, wel mooie plaatsen: Xibe werd 7e op de 200m vrije slag en de 200m wisselslag, Tymon 6e op de 100m vrije slag en de 50m vlinderslag."
       },
       {
         "naam": "BK Estafette",

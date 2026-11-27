@@ -18,7 +18,10 @@ Eén editie per kwartaal. **Deadline: 14 dagen na het einde van het kwartaal.**
 
 Alles komt in Google Drive, map **Nieuwsbrief Competitie / <kwartaal>**:
 
-- `01_uitslagen-pdf/`: de uitslagen-PDF van elke wedstrijd, meteen na de wedstrijd
+- `01_uitslagen-pdf/`: de uitslag van elke wedstrijd, meteen na de wedstrijd. Bij voorkeur:
+  1. **`results.lxf`** van de livetiming-pagina (Lenex: het nauwkeurigst, `tools/lenex.py`)
+  2. anders de **uitslagen-PDF** van Splash Meet Manager (`tools/uitslagen.py`)
+  3. BK's op swimrankings: **screenshots** van de clubpagina van Neptunus Aalst
 - `02_fotos/`: een paar goede foto's per wedstrijd/stage (submapje per wedstrijd mag)
 - `03_teksten/`: verslagjes, aankondigingen, save the dates (een notitie of Google Doc volstaat)
 
