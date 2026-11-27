@@ -154,6 +154,8 @@ h2.sectietitel::before { content: ""; width: 8px; height: 28px; border-radius: 4
 .kalender .wat { font-weight: 700; }
 .kalender .details { color: var(--zacht); font-size: .88rem; }
 .kalender li.voorbij { opacity: .55; }
+.gewijzigd { display: inline-block; vertical-align: middle; font-size: .65rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase;
+  color: #fff; background: #c0262d; padding: 2px 7px; border-radius: 999px; margin-left: 4px; }
 
 /* Extra / save the date */
 .extra-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }

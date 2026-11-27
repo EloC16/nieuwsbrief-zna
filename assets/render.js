@@ -103,7 +103,7 @@
           const eind = parseDatum(x.tot || x.van);
           const voorbij = eind && eind < vandaag ? " voorbij" : "";
           return `<li class="${voorbij}"><div class="wanneer">${periode(x.van, x.tot)}</div>
-            <div class="wat">${esc(x.naam)}</div><div class="details">${esc([x.plaats, x.details].filter(Boolean).join(" · "))}</div></li>`;
+            <div class="wat">${esc(x.naam)}${x.gewijzigd ? ' <span class="gewijzigd">Gewijzigd</span>' : ""}</div><div class="details">${esc([x.plaats, x.details].filter(Boolean).join(" · "))}</div></li>`;
         }).join("") + `</ul>${todo(k.todo)}</section>`;
     }
 

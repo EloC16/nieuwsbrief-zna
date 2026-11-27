@@ -106,7 +106,7 @@
         "plaats": "Antwerpen",
         "van": "2026-05-15",
         "tot": "2026-05-17",
-        "tekst": "Een positieve ervaring voor Xibe, Emelie en Alicia op dit BK Open. Maar... het was Noah die met alle aandacht ging lopen (terecht!).",
+        "tekst": "Een positieve ervaring voor Xibe, Emelie en Alicia op dit BK Open. Maar... het was Noah die met alle aandacht ging lopen (terecht!). Hij won de 200m schoolslag als beste Belg, in een nieuw Belgisch record, en zwom ook de A-finale van de 100m schoolslag.",
         "records": [
           {
             "label": "Belgisch record",
@@ -118,15 +118,9 @@
         ],
         "fotos": [],
         "todo": "de 'Belgian record'-afbeelding van Noah in 02_fotos zetten",
-        "zilver": [
+        "goud": [
           "Noah (200SS)"
-        ],
-        "finales": {
-          "A-finale": [
-            "Noah (200SS, 2e)",
-            "Noah (100SS, 4e)"
-          ]
-        }
+        ]
       },
       {
         "naam": "Limietenwedstrijd",
@@ -223,11 +217,16 @@
         "zilver": [
           "Mathias B (100VS)",
           "Jinne (100SS, 200SS)",
-          "Lotte VN (100SS)"
+          "Lotte VN (100SS)",
+          "Lotte VN (klassement schoolslag)",
+          "Aflossingsploeg dames"
         ],
         "brons": [
-          "Mathias B (100VL)"
-        ]
+          "Mathias B (100VL)",
+          "Mathias B (klassement vlinderslag, klassement vrije slag)",
+          "Aflossingsploeg meisjes"
+        ],
+        "tekst": "Naast de individuele medailles vielen we ook in de prijzen in de klassementen en de aflossingen. In het clubtrofeeklassement eindigde Neptunus Aalst op een mooie **5e plaats**."
       },
       {
         "naam": "BK categorieën – weekend 1",
@@ -316,10 +315,23 @@
         "todo": "data van de stage en een paar foto's toevoegen"
       },
       {
+        "titel": "Mechelen 2026",
+        "groep": "Beloften en jongeren",
+        "tekst": "Ook de beloften en jongeren trokken in de zomer van 2026 op stage, naar Mechelen.",
+        "fotos": [],
+        "todo": "foto toevoegen (en eventueel een kort verslagje)"
+      },
+      {
         "titel": "Lignano 2027",
         "groep": "Paasvakantie",
         "tekst": "",
         "todo": "korte aankondiging schrijven (wie, wanneer, praktisch)"
+      },
+      {
+        "titel": "Stage beloften en jongeren 2027",
+        "groep": "Beloften en jongeren",
+        "tekst": "Ook in 2027 gaan de beloften en jongeren op stage. De bestemming maken we later bekend.",
+        "todo": "bestemming/data aanvullen zodra gekend"
       }
     ]
   },
@@ -333,7 +345,7 @@
         "tot": "2026-10-04"
       },
       {
-        "naam": "Memorial Antheunis",
+        "naam": "Memorial Anteunis",
         "plaats": "Gent",
         "van": "2026-10-17",
         "tot": "2026-10-18"
@@ -360,15 +372,17 @@
       },
       {
         "naam": "BK 17+ Klein Bad",
-        "plaats": "Locatie nog te bepalen",
+        "plaats": "Sint-Niklaas",
         "van": "2026-12-18",
         "tot": "2026-12-20",
         "details": "Selectie op basis van limieten"
       },
       {
-        "naam": "Allerlaatste kans",
-        "plaats": "Sint-Niklaas",
-        "van": "2026-12-27"
+        "naam": "Laatste kans LAQUA",
+        "plaats": "Leuven",
+        "van": "2026-12-27",
+        "gewijzigd": true,
+        "details": "Vervangt de eerder aangekondigde 'Allerlaatste kans' in Sint-Niklaas"
       }
     ],
     "todo": "de meeste wedstrijden zijn bij publicatie al voorbij: vervangen door de kalender van Q1 2027?"
@@ -387,14 +401,6 @@
         "titel": "Seizoen 27-28 start op 16 augustus!",
         "van": "2027-08-16",
         "tekst": "Door de wijziging in de wedstrijdkalender starten we volgend jaar het seizoen al op 16 augustus. Graag volwaardige aanwezigheid op training vanaf dan! Hou hier, in de mate van het mogelijke, rekening mee bij het plannen van reizen, kampen..."
-      },
-      {
-        "tag": "Steun ons",
-        "titel": "Wafelverkoop",
-        "tekst": "Tijdens de maand oktober konden wafeldozen aangekocht worden, waarmee we onze stages en de algemene werking van de competitiegroepen mee financieren.",
-        "link": "https://www.wafeltjesshop.be/znacompetitie/",
-        "linktekst": "Naar de wafelshop",
-        "todo": "nog relevant? De verkoop was in oktober"
       }
     ]
   },
