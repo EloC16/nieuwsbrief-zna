@@ -34,8 +34,16 @@
         "plaats": "Lebbeke",
         "van": "2026-04-11",
         "tekst": "Victor, Yasmine, Lyam, Yben en Feije trokken onder begeleiding van trainers Kato en Mauro naar Lebbeke voor de 4de dag van het groeitraject. Ook deze editie was weer meer dan geslaagd, iedereen leerde veel bij!",
-        "fotos": [],
-        "todo": "foto's (staan in Canva) in de Drive-map 02_fotos zetten"
+        "fotos": [
+          {
+            "src": "fotos/groeitraject-1.jpg",
+            "alt": "Zwemmers aan de startblokken tijdens het groeitraject"
+          },
+          {
+            "src": "fotos/groeitraject-2.jpg",
+            "alt": "Groepsfoto van de deelnemers aan het groeitraject"
+          }
+        ]
       },
       {
         "naam": "Regionaal criterium dag 5",
@@ -116,8 +124,12 @@
             "extra": "+ kwalificatie voor het EK in Parijs"
           }
         ],
-        "fotos": [],
-        "todo": "de 'Belgian record'-afbeelding van Noah in 02_fotos zetten",
+        "fotos": [
+          {
+            "src": "fotos/noah-belgisch-record.jpg",
+            "alt": "Noah na zijn Belgisch record op 200m schoolslag"
+          }
+        ],
         "goud": [
           "Noah (200SS)"
         ]
@@ -258,8 +270,13 @@
         "plaats": "Parijs",
         "van": "2026-08-12",
         "tekst": "Wat een moment: Noah stond op 12 augustus aan de start van de 200m schoolslag op het **Europees Kampioenschap** in Parijs! Dat lieten zijn trainers niet aan zich voorbijgaan: Anneleen, Maarten, Joachim en Eloïse trokken op citytrip naar Parijs om hem vanop de tribune aan te moedigen.\n\nNoah, we zijn ongelooflijk fier op jou!",
-        "fotos": [],
-        "todo": "foto toevoegen (map 02_fotos/ek-parijs); eventueel Noah's tijd/plaats vermelden"
+        "fotos": [
+          {
+            "src": "fotos/ek-parijs.jpg",
+            "alt": "De trainers op citytrip in Parijs voor het EK"
+          }
+        ],
+        "todo": "eventueel Noah's tijd/plaats op het EK vermelden"
       },
       {
         "naam": "BK Estafette",
@@ -319,15 +336,45 @@
         "titel": "Ptuj 2026",
         "groep": "A-groep",
         "tekst": "De stage in Ptuj was er eentje om niet te vergeten: alle goden streden om hun plekje op de Olympus, en ook in het zwembad werd er gestreden. Een ziekenhuisbezoek bleef dit jaar gelukkig uit en de weersomstandigheden waren optimaal. Zelfs het kwelende geluid dat de zwemmers produceerden tijdens de karaoke was niet voldoende om een onweersbui over ons te laten losbarsten.\n\nDe zwemmers maakten ook gretig gebruik van de SUP-activiteit om de trainers veelvuldig het water in te duwen, al gaven die trainers zich niet zo snel gewonnen.",
-        "fotos": [],
-        "todo": "data van de stage en een paar foto's toevoegen"
+        "fotos": [
+          {
+            "src": "fotos/ptuj-1.jpg",
+            "alt": "Briefing aan het 50m-bad in Ptuj"
+          },
+          {
+            "src": "fotos/ptuj-2.jpg",
+            "alt": "Zwemmers ontspannen in het bad"
+          },
+          {
+            "src": "fotos/ptuj-3.jpg",
+            "alt": "Zwemsters lachen naar de camera"
+          },
+          {
+            "src": "fotos/ptuj-4.jpg",
+            "alt": "Trainer geeft uitleg aan de zwemmers in het water"
+          },
+          {
+            "src": "fotos/ptuj-5.jpg",
+            "alt": "Zwemmers aan de kant van het bad"
+          },
+          {
+            "src": "fotos/ptuj-6.jpg",
+            "alt": "Karaoke-avond op stage"
+          }
+        ],
+        "todo": "data van de stage toevoegen"
       },
       {
         "titel": "Mechelen 2026",
         "groep": "Beloften en jongeren",
         "tekst": "Ook de beloften en jongeren trokken in de zomer van 2026 op stage, naar Mechelen.",
-        "fotos": [],
-        "todo": "foto toevoegen (en eventueel een kort verslagje)"
+        "fotos": [
+          {
+            "src": "fotos/mechelen.jpg",
+            "alt": "Groepsfoto van de beloften en jongeren op stage in Mechelen"
+          }
+        ],
+        "todo": "eventueel een kort verslagje"
       },
       {
         "titel": "Lignano 2027",
